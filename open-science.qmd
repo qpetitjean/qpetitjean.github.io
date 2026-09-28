@@ -1,0 +1,35 @@
+---
+title: Software & open science
+description: Tools and community work for transparent, reproducible ecological research.
+---
+
+## MoveR {#mover}
+
+**A flexible R workflow for animal video-tracking data.**
+
+MoveR helps import, filter, visualise and analyse data from common video-tracking solutions. It includes tools to remove tracking artefacts, subset individual paths and calculate movement and behavioural metrics.
+
+The package grew out of research on the thermal responses of parasitic micro-wasps. It is intended to make movement analysis easier for both new and experienced R users.
+
+[Documentation](https://qpetitjean.github.io/MoveR/){.button-link} [Source code](https://github.com/qpetitjean/MoveR) · [SoftwareX article](https://doi.org/10.1016/j.softx.2024.101674) · [Poster](Posters/Petitjeanetal-MOVER-POSTER.pdf)
+
+## Data and code quality control
+
+I contributed to *The SORTEE Guidelines for Data and Code Quality Control in Ecology and Evolutionary Biology*. This community effort provides a framework for checking archived research data and code, supporting the FAIR principles (i.e., findability, accessibility, interoperability and reusability).
+
+[Read the original announcement](posts/2025-10-24-data-editor-guidelines/index.qmd) · [Guidelines preprint](https://doi.org/10.32942/X24P8S) · [SORTEE resources](https://www.sortee.org/outputs/)
+
+My editorial work includes data editing for *Ecology Letters*. I also share practical guidance through [talks and workshops](communications.qmd), including a presentation on publishing data and code for transparent research.
+
+## Supporting the research community
+
+I co-coordinate the **Young Ecotoxicologist Group (YEG)** of the ECOTOX network with Sophie M. Dupont. The group connects early-career researchers through webinars, discussion, collaboration and shared opportunities.
+
+I also co-coordinate the **Pesticides & Pollinators Group** within the [POLLINECO network](https://pollineco.org/) with [Mathilde Tissier](https://ecology-nutrition.wixsite.com/mathildetissier) and [Nicolas Deguines](https://sites.google.com/view/nicolasdeguines/home). The group organises an annual 1-day meeting within the POLLINECO annual conference to share the latest updates on pesticide exposure and effects on pollinators.
+
+[About the YEG](posts/2024-08-27-yeg/index.qmd) · [ECOTOX network](https://ecotox.hub.inrae.fr/groupe-jeunes) · [Opportunities](opportunities.qmd)
+
+## Open research outputs
+
+Where available, my [publication entries](publications.qmd) link directly to the associated data, analysis code, reports and preprints.
+

@@ -1,0 +1,14 @@
+/_site/
+/.quarto/
+__pycache__/
+*.pyc
+/.preview/
+/migration/legacy-redirects/
+
+
+**/*.quarto_ipynb
+
+# The confidential review workbook stays outside the website repository.
+Recap_reviews-QP.xlsx
+~$Recap_reviews-QP.xlsx
+.Rproj.user/

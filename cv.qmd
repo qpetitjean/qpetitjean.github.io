@@ -1,0 +1,392 @@
+---
+title: "Curriculum vitae"
+description: "Research experience, teaching, service and community involvement."
+toc: true
+---
+
+<button type="button" class="print-button" data-print>Print / save as PDF</button>
+
+::: {.legacy-content}
+
+<br/>
+<p>Quentin PETITJEAN, Ph.D <a href="mailto:quentin.petitjean@inrae.fr"></a></p>
+<div><br></div>
+<p class="plain-text">
+   Nationalities<br/>
+   </p> 
+
+<p class="plain-text">
+   Present/last institutional address<br/>
+<a href="https://maps.app.goo.gl/wi1YkxL1J7GKTNZr8"> <small>Bees & Environment Unit (AE, INRAE), Avignon, France.</small></a></p> 
+
+***
+
+## Keywords
+
+
+  
+    
+   Evolutionary-ecotoxicology <br/>
+   Eco-physiology <br/>
+   Ecology
+
+    
+   Multiple stressors <br/>
+   Behavior <br/>
+   Intraspecific variability
+
+  
+
+
+***
+
+## Education 
+<p class="plain-text">
+   2019 | <a href='https://www.univ-tlse3.fr/'>Paul Sabatier University—UPS</a> | Ph.D in environmental sciences/functional ecology <br/>
+   2016 | <a href='https://www.ubfc.fr/'>Bourgogne-Franche-Comt&eacute; University—UBFC</a> | M.Sc. in environmental sciences/ecotoxicology  <br/>
+   2014 | <a href='https://www.ubfc.fr/'>Bourgogne-Franche-Comt&eacute; University—UBFC</a> | B.Sc. in biology & ecology
+</p> 
+***
+
+## Research experience
+<p class="plain-text">
+   January 2025 - Present | Research Scientist | <a href='https://abeilles-et-environnement.paca.hub.inrae.fr/'>National Research Institute for Agriculture, Food and Environment—INRAE; Bees & Environment Unit—AE</a>, Avignon, FR </p>
+<p class="detailed-text">
+<em><u>Title:</u> «Wild bees ecotoxicology».</em><br/></p>
+<details>
+  <summary class= "summary">
+  Read the story behind (click to unroll)
+  </summary>
+
+  
+    
+<p class="detailed-text"> 
+I have started a permanent researcher position at the <a href='https://abeilles-et-environnement.paca.hub.inrae.fr/'>Bees & Environment unit (AE)</a> on January 2025.<br/><br/>
+More particularly, I will investigate how contaminants and stressors may affects bees health.<br/><br/>
+More details to come soon ! 
+</p>
+
+    
+    
+
+    
+
+  
+
+
+</details> 
+<p class="plain-text">
+   February 2024 - December 2024 | Postdoctoral researcher | <a href='https://eng-eabx.bordeaux-aquitaine.hub.inrae.fr/'>National Research Institute for Agriculture, Food and Environment—INRAE; Aquatic ecosystems and global change Unit—EABX</a>, Cestas, FR </p>
+<p class="detailed-text">
+<em><u>Title:</u> «Modeling the effects of anthropogenic pressures on migratory fishes».<br/>
+<u>Supervisor(s):</u> Dr. Bertrand VILLENEUVE.</em><br/></p>
+<details>
+  <summary class= "summary">
+  Read the story behind (click to unroll)
+  </summary>
+
+  
+    
+<p class="detailed-text"> 
+Still deeply interested by improving our knowledge about multiple stressors' effects on fish health to improve conservation practices, I will join the <a href='https://eng-eabx.bordeaux-aquitaine.hub.inrae.fr/'>Aquatic ecosystems and global change research unit (EABX)</a> in February 2024.<br/><br/>
+More particularly, I will become a member of the <a href='https://scholar.google.fr/citations?hl=fr&user=2KksVvoAAAAJ&view_op=list_works&sortby=pubdate'>Bertrand VILLENEUVE</a>'s lab to investigate how anthropogenic pressures such as pollution, temperature, hydromophology, dams, and so on may contribute to the decline of migratory fish species (e.g., <em>Alosa alosa</em>, <em>Salmo salar</em>, <em>Anguilla anguilla</em>) along river continuum.<br/><br/>
+More details to come soon ! 
+</p>
+
+    
+    
+
+    
+
+  
+
+
+</details> 
+<p class="plain-text">
+   March 2021 - October 2022 | Postdoctoral researcher | <a href='https://www6.paca.inrae.fr/institut-sophia-agrobiotech'>National Research Institute for Agriculture, Food and Environment—INRAE</a>, Sophia-Antipolis, FR </p>
+<p class="detailed-text">
+<em><u>Title:</u> «Study of intraspecific variability and thermal adaptation traits in parasitic micro-wasps using computer-vision approaches».<br/>
+<u>Supervisor(s):</u> Dr. Vincent CALCAGNO.</em><br/></p>
+<details>
+  <summary class= "summary">
+  Read the story behind (click to unroll)
+  </summary>
+
+  
+    
+<p class="detailed-text">
+Following my previous postdoctoral experience performing lab (DNA extractions – PCR) and bioinformatics analyses, my growing interest in the intraspecific variability of responses to global changes guided me to join <a href='https://www6.paca.inrae.fr/institut-sophia-agrobiotech'>Institut Sophia Agrobiotech (ISA)</a>.<br/><br/>
+More particularly, I joined <a href='https://vcalcagnoresearch.wordpress.com/'>Vincent CALCAGNO</a>'s lab to investigate the variability in activity and movement among insect populations facing temperature changes. I was involved in the <a href='https://ecophytopic.fr/recherche-innovation/proteger/projet-bidime'>BIDIME project (ANR)</a> targeted at developing innovative biological control solutions with insects, and transfer them to farmers and land managers. I collaborated with <a href='https://fr.linkedin.com/in/michela-ion-scotta'>Michela ION SCOTTA</a>, who reared 35 populations of small parasitic micro-wasps (genus <em>Trichogramma</em>) that were sampled in France along a latitudinal gradient. Michela also performed experiments in which each population was subjected to steady decreases/increases in temperature (over two hours).</p>
+
+<p class="detailed-text">
+The experiments were video-recorded, and my task was to use video-tracking solutions to quantify insect movements and their changes in response to temperature ramps.<br/>
+I analyzed the movements of the 35 wasp populations to test for variability in thermal biology and activity patterns. My aim was to uncover patterns of local adaptation (i.e., relationship between thermal resistance and the bioclimatic area of the origin of the populations) and test for adaptive trade-offs between resistance to cold and warm temperatures.<br/><br/>
+This work also inspired the development of the MoveR  package, intending to easily import, visualize,  process, filter, and analyze movement data obtained from video-tracking softwares.<br/><br/>
+See here for:<br/>
+&#8226; <a href="https://qpetitjean.github.io/MoveR/index.html">Package documentation</a> <br/>
+&#8226; <a href="https://www.biorxiv.org/content/10.1101/2023.11.08.566216v1">Preprint hosted in bioRxiv</a> <br/>
+&#8226; <a href="https://www.softxjournal.com/article/S2352-7110(24)00045-1/fulltext">Edited article published in SoftwareX</a>.</p>
+
+    
+    
+
+
+  
+
+
+<p class="detailed-text">
+ For more insight about what I did within the project check the video below  
+</p>
+
+<div class="video-container">
+  <iframe width="100%" height="100%"
+          src="https://www.youtube.com/embed/Y9ltf08Iqb4"
+          title="Video-phenotyping of thermal performances in minute wasps"
+          loading="lazy"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen></iframe>
+</div>
+
+</details>
+<p class="plain-text">
+   January 2020 - December 2021 and March 2023 - January 2024| Postdoctoral researcher | <a href='https://www.inp-toulouse.fr/fr/index.html'>National Polytechnic Institute—INP</a>, Toulouse, FR </p>
+<p class="detailed-text">
+<em><u>Title:</u> «Gut microbiota shifts among freshwater fish populations exposed to multiple stressors under lab and field conditions».<br/>
+<u>Supervisor(s):</u> Dr. Lisa JACQUIN, Dr. Jo&euml;l WHITE & Pr. Pascal LAFFAILLE.</em><br/></p>
+<details>
+  <summary class= "summary">
+  Read the story behind (click to unroll)
+  </summary>
+
+
+  
+    
+<p class="detailed-text">
+Following my Ph.D. defense, I was still Intending to increase the integration of multiple biological levels of organization in studying responses to multiple stressors. <br/><br/>
+Since the literature highlighting the close relationships between physiological and behavioral responses and gut microbiota composition was flourishing, my supervisors (<a href='https://sites.google.com/site/jacquinlisa2'>Lisa JACQUIN</a>, <a href='https://scholar.google.com/citations?hl=fr&user=eI53HscAAAAJ&view_op=list_works&sortby=pubdate'>S&eacute;verine JEAN</a> and <a href='https://scholar.google.fr/citations?hl=fr&user=qMa0F0gAAAAJ&view_op=list_works&sortby=pubdate'>Pascal LAFFAILLE</a>) and I started a collaboration with <a href='https://whitejoel.weebly.com/'>Jo&euml;l WHITE</a> to investigate how multiples stressors may affect gut microbiota composition among several populations of wild fish. <br/><br/>
+Fortunately, during my Ph.D., we collected the gut of all the fish involved in laboratory and reciprocal transplant experiments testing for the combined effect of trace metal contamination and immune challenge. This provided a fair amount of samples to investigate the intraspecific variability of gut microbiota composition in wild fish populations exposed to environmentally relevant stressors. Also, it allowed uncovering potential links between fish physiological and/or behavioral responses already measured during my Ph.D. and gut microbiota composition. <br/><br/>
+While the COVID-19 pandemic knocked at the world's door, we were coerced to delay laboratory analyses (DNA extractions – PCR – NGS). Fortunately, I just had enough time to finish lab' and bioinformatic analyses before leaving this position for the next one. <br/><br/>
+Finally, I just get back to the datasets analyses and writing during a new postdoctoral contract this year (2023) <br/><br/>
+In March 2025, we finally published a preprint reporting the first results of this line of work: “Experimental metal contamination reduces gut microbiota diversity and alters its composition and function in wild-caught fish.” Here we found that metal contamination consistently reduced both taxonomic and predicted functional diversity of the gut microbiota, decreasing biosynthesis (e.g., cell-structure and amino-acid precursors) while increasing energy-production pathways (e.g., anaerobic respiration). Surprisingly, we detected no interaction between metals and the immune challenge, and no difference among populations despite their contrasting exposure histories, pointing to a strong, generalizable microbiome response to metal stress.
+<br/><br/>
+See here for:<br/>
+&#8226; <a href="https://www.biorxiv.org/content/10.1101/2025.03.21.644596v1">Preprint hosted in bioRxiv</a> <br/></p>
+
+</p>
+
+    
+    
+
+
+  
+
+
+</details>
+<p class="plain-text">
+   October 2016 - December 2019 | Ph.D candidate | <a href='https://www.univ-tlse3.fr/'>Paul Sabatier University—UPS</a>, Toulouse, FR </p>
+<p class="detailed-text">
+<em><u>Title:</u> «Variability of responses among freshwater fish populations exposed to multiple stressors».<br/>
+<u>Supervisor(s):</u> Dr. Lisa JACQUIN, Dr. S&eacute;verine JEAN & Pr. Pascal LAFFAILLE.</em><br/></p>
+<details>
+  <summary class= "summary">
+  Read the story behind (click to unroll)
+  </summary>
+
+  
+    
+<p class="detailed-text"> 
+Freshly Graduated from Bourgogne-Franche-Comt&eacute; University with a master's in environmental sciences/ecotoxicology, I was lucky enough to work with very supportive people on stimulating and interdisciplinary projects (see my previous experiences below). Briefly, I was working on transfer, fate, and effects of contaminants on laboratory-raised organisms when new exciting questions arose. For example, could the outcomes of contaminants exposure differ according to the origin of the populations? <br/>Focusing on this question would imply working with wild populations. Still, in the wild, organisms are not only exposed to contaminants but rather to a combination of stressful conditions such as temperature changes or pathogens. This brings me to drill into evolutionary ecology and intraspecific variability to better understand how multiple stressors interact and whether the outcome of stressors exposure may differ among populations.<br/><br/>
+Accordingly, I started a Ph.D. program with <a href='https://sites.google.com/site/jacquinlisa2'>Lisa JACQUIN</a>, <a href='https://scholar.google.com/citations?hl=fr&user=eI53HscAAAAJ&view_op=list_works&sortby=pubdate'>S&eacute;verine JEAN</a> and <a href='https://scholar.google.fr/citations?hl=fr&user=qMa0F0gAAAAJ&view_op=list_works&sortby=pubdate'>Pascal LAFFAILLE</a> to investigate the intraspecific variability of responses to multiple stressors among wild fish populations (<em>Gobio occitaniae</em>) and across levels of biological organization.<br/><br/>
+To tackle these aims, I used complementary approaches  such as the analysis of large datasets collated in the field to uncover potential relationships between stressors exposure and fish health <a href='/publications.html'>(Petitjean et al., 2020)</a>. But also, full factorial design conducted in the lab to identify causal link between stressors exposure and plastic responses of fish from several populuations <a href='/publications.html'>(Petitjean et al., 2020;</a> <a href='/publications.html'> Petitjean et al., 2021)</a>. Finally, I performed a reciprocal transplant experiment in the field to unveil potential pattern of local adaptation to stressors exposure <a href='/publications.html'> (Petitjean et al., 2023)</a>.<br/>
+<img src="/assets/phd-approaches.webp" alt="Research questions and experimental approaches during my PhD" loading="lazy">
+Briefly, we found that combinations of stressors resulted in different outcomes than exposure to single stressors. Still, interactions were antagonistic, synergistic, or additive depending on the traits and level of biological organization. Accordingly, among the numerous traits measured, behavior appeared to be the most sensitive to stressors exposure. Also, populations' responses to stressors differed according to their origin. By using reciprocal transplant approaches, we found that some populations were more resistant to stream contamination with no apparent costs (no trade-off). the results of my Ph.D suggest that we need to rely on integrative and interdisciplinary approaches to improve our knowledge of the effect of multiple stressors and, more generally, global changes on populations' adaptive potential and vulnerability .
+<img src="/assets/phd-overview.webp" alt="Research themes explored during my PhD" loading="lazy">
+
+For more information, see the <a href='/publications.html'>Publication section</a> of this website.</p>
+
+    
+    
+
+    
+
+  
+
+
+</details> 
+<p class="plain-text">
+   February 2016 - July 2016 | M.Sc. candidate | <a href='https://www.ubfc.fr/'>Bourgogne-Franche-Comt&eacute; University—UBFC</a>, Besan&ccedil;on, FR </p>
+<p class="detailed-text">
+<em><u>Title:</u> «Impacts of metallurgical wastes on soil contamination: transfer and fate of trace metal elements».<br/>
+<u>Supervisor(s):</u> Dr. Annette DE VAUFLEURY & Dr. Fr&eacute;d&eacute;ric GIMBERT.</em><br/></p>
+<details>
+  <summary class= "summary">
+  Read the story behind (click to unroll)
+  </summary>
+
+  
+    
+<p class="detailed-text">
+During my second year of my master's, I was still motivated to strengthen our knowledge about the effects of contaminants from different sources on animals. Also, although short, my previous research experience aroused my curiosity and the need to broaden my scope by interacting with researchers embracing various disciplines. At that time, <a href='https://chrono-environnement.univ-fcomte.fr/spip.php?page=perso&nom=GIMBERT&prenom=Fr%C3%A9d%C3%A9ric'> Fr&eacute;d&eacute;ric GIMBERT</a> and <a href='https://chrono-environnement.univ-fcomte.fr/spip.php?page=perso&nom=DE%20VAUFLEURY&prenom=Annette'> Annette DE VAUFLEURY</a> gave me the opportunity to work on an interdisciplinary study involving archeology, mineralogy, environmental chemistry, and ecotoxicology. <br/><br/>
+Indeed mining and metallurgical activities are the most ancient sources of anthropogenic contamination in the environment. While the evidence of this ancient contamination is scarce, archeological surveys in eastern France unveiled several areas (i.e., districts) which have been significant places of mining and metallurgical activities in the medieval era (between the 8th and the 12th centuries). Currently, metallurgical wastes named slags are still present in numerous district soils and may represent a significant source of soil contamination. <br/><br/>
+Here we aimed to characterize the mineralogical composition of slags deposited one thousand years ago and to uncover whether it could still be a significant source of soil contamination that could transfer to organisms and have harmful effects. <br/><br/>
+To tackle these aims, we sampled slags and soil cores along transects starting from the center of the slag heap. We then used scanning electron microscopy with energy dispersive spectrometry (EDS) mapping and x-ray diffraction to analyze slags and soil mineralogical composition. We also conducted chemical extraction and ecotoxicity bioassays using land snail (<em>Cantareus aspersus</em>) on soil samples to assess contaminant transfers in plants and biota and infer possible harmful effects. <br/><br/>
+Briefly, We found that slags that remain in the soil still release a significant amount of manganese (Mn), which is consistent with their mineralogical composition. We also uncovered that a large proportion of the Mn contamination might be available for transfers in plants and animals, especially land snails. However, we did not find any evidence of toxicity caused by soils contamination on snails . <br/>
+<p><a href="https://doi.org/10.1016/j.chemosphere.2021.130337">View the study and graphical abstract.</a></p>
+This study and <a href='https://www.theses.fr/en/2016BESA2077'>previous work by Anne-Lise Mariet (former Ph.D. student) in the Vosges Mountains</a> paved the way to further projects/studies investigating the spatial occurrence, transfers, fate, and effects of metallic palaeo-pollution in eastern France (e.g., <a href='https://chrono-environnement.univ-fcomte.fr/spip.php?page=projet&projet=23'>SIDEROS</a> and <a href='https://chrono-environnement.univ-fcomte.fr/spip.php?page=projet&projet=53'>ALTERICS</a>).<br/><br/>
+For more information, see the <a href='/publications.html'>Publication section</a> of this website.
+</p>
+
+    
+    
+
+
+  
+
+
+</details>
+<p class="plain-text">
+   February 2015 - May 2015 |  M.Sc. candidate | <a href='https://www.ubfc.fr/'>Bourgogne-Franche-Comt&eacute; University—UBFC</a>, Besan&ccedil;on, FR </p>
+<p class="detailed-text">
+<em><u>Title:</u> «Trace metal availability and transfers assessment in a leachates pond collector from a municipal solid waste landfill using Chironomus riparius».<br/>
+<u>Supervisor(s):</u> Dr. Fr&eacute;d&eacute;ric GIMBERT & Pr. Aleya LOTFI.</em><br/></p>
+<details>
+  <summary class= "summary">
+  Read the story behind (click to unroll)
+  </summary>
+
+  
+    
+<p class="detailed-text">
+While aware of the need to mitigate the increasing degradation of the environment caused by anthropogenic activities, I was motivated to strengthen our knowledge about the effects of contaminants on animals. In this context, I had the opportunity to conduct an internship with <a href='https://chrono-environnement.univ-fcomte.fr/spip.php?page=perso&nom=GIMBERT&prenom=Fr%C3%A9d%C3%A9ric'> Fr&eacute;d&eacute;ric GIMBERT</a> and <a href='https://chrono-environnement.univ-fcomte.fr/spip.php?page=perso&nom=ALEYA&prenom=Lotfi'>Lotfi ALEYA</a> to investigate the bioavailability of trace metal elements in a landfill leachate collection pond.<br/><br/>
+Indeed, until 2002 household waste disposal was authorized in France, resulting in contamination of the surrounding environment, primarily through contaminants leaching. To reduce environmental contamination entailed by this mode of waste storage, the Etueffont landfill (i.e., study site) set up a lagoon ponds system collecting landfill leachates.<br/><br/>
+Here, we aimed to better understand whether leachates released in the ponds may induce the accumulation of trace metal elements in biota (i.e., bioaccumulation kinetics) and how water and sediment may contribute to the observed bioaccumulation' patterns.<br/><br/>
+To tackle these aims, we used an active biomonitoring approach through caging laboratory-raised midges larvae (<em>Chironomus riparius</em>) in the first landfill leachate collection pond. More particularly, we used two types of cages to either expose the larvae to water only or water and sediment for a five days maximum duration .<br/>
+<p><a href="https://doi.org/10.1007/s11356-016-8261-1">View the study and experimental cage designs.</a></p>
+Back in the laboratory, we performed subcellular fractionation of the midges to measure trace metal bioaccumulation in the cytosolic (i.e., sensitive fraction) and insoluble fractions. We then modeled the bioaccumulation kinetic for each contaminant and fraction. This helped to discuss the primary source of contaminant transfers (i.e., water and/or sediment), contaminant bioavailability, and the potential threat entailed by landfill leachates on biota.<br/><br/>
+For more information, see the <a href='/publications.html'>Publication section</a> of this website.</p>
+</p>
+
+    
+    
+
+    
+
+  
+
+    
+</details>
+***
+
+## Teaching & supervising
+<p class="plain-text">
+   <a href='https://www.inp-toulouse.fr/fr/index.html'>National Polytechnic Institute—INP</a> | Electrofishing/inventory of fish species (≈16h) <br/>
+   <a href='https://www.univ-tlse3.fr/'>Paul Sabatier University—UPS</a> | Multivariate data analysis (≈50h) <br/>
+   Students internship co-supervision | 8 B.Sc and 5 M.Sc students
+</p>
+***
+
+## Grants
+<p class="plain-text">
+   2019 | Travel grant for the SETAC Europe 29<sup>th</sup> meeting (≈430€) </p>
+<details>
+  <summary class= "summary">
+  Details (click to unroll)
+  </summary>
+  
+
+  <p class="detailed-text">
+  Grant programme supported by the SETAC Europe reinvestment fund and Syngenta to help student members participating to the <a href='https://helsinki.setac.org/welcome/'>SETAC Europe 29<sup>th</sup> meeting</a> meeting (Up to maximum 250€, Travel costs only, visa and accommodation are not included).
+</p>
+</details>
+<p class="plain-text">
+   2016 | Ph.D grant from French research and education ministry (≈60k€) </p>
+<details>
+  <summary class= "summary">
+  Details (click to unroll)
+  </summary>
+  
+
+
+<p class="detailed-text">
+3 years stipend allowed by the French research and education ministry to study the variability of responses among freshwater fish populations (<em>Gobio occitaniae</em>) exposed to multiple stressors at the <a href='https://www.univ-tlse3.fr/'>Paul Sabatier University—UPS</a>.
+</p>
+</details>
+<p class="plain-text">
+   2015 | Leonard Da Vinci international mobility grant (≈2.5k€) </p>
+<details>
+  <summary class= "summary">
+  Details (click to unroll)
+  </summary>
+  
+
+
+<p class="detailed-text">
+European grant supporting individual mobility projects to acquire training and professional experience within Europe. <br/></p>
+<p class="detailed-text">
+I conducted a 3.5 month internship (June 2014 to mid-september 2014) in the Plant Ecology Research Unit (PERU) of the <a href='https://www.nuigalway.ie/'>National University of Ireland Galway (NUIG)</a> under the supervision of <a href='https://www.universityofgalway.ie/science-engineering/school-of-natural-sciences/disciplines/botany-plant-science/research/plant-and-algal-marine-ecology/michelinesheehyskeffington/'>Micheline Sheehy Skeffington</a>. Micheline is currently emeritus at NUIG and a long-standing fighter of gender discrimination (<a href='https://michelinesthreeconditions.wordpress.com/'>see here for more infos</a>).
+I have mainly assisted Micheline and it's former team members (James Owens and Sarah O'loughlin-Irwin) to conduct plants inventories in heatland and hay meadows.
+I have also worked to update the collection of the university of Galway' herbarium. <br/></p>
+<p class="detailed-text">
+<u>Internship subjects:</u> <br/>
+«Restoring plant species richness and forage quality to hay meadows on the River Shannon, Ireland.»
+<br/>
+«Ecology and conservation of <em>Arctostaphylos</em> heath in the Burren, Western Ireland.»
+</p>
+</details>
+
+***
+
+## Congress & professional membership
+### Conference organisation
+<p class="plain-text">
+   14th meeting Ecology and Behaviour (E&B) 2019</p>
+<details>
+  <summary class= "summary">
+  Details (click to unroll)
+  </summary>
+<p class="detailed-text">
+The « Ecology and Behaviour » conferences are organized by and for young researchers. These events are an ideal opportunity for master, Ph.D. students, and postdocs to share their works with other researchers in ecology, evolutionary biology, and behavioral ecology. <br/></p>
+<p class="detailed-text">
+As Co-organizer, chairman (Ecotoxicology & Ecophysiology session), and financial manager (Fundraising: 20k€) of the <a href='https://eb2019.sciencesconf.org/'>14th meeting Ecology and Behaviour (E&B) 2019</a>, I am delighted to have participated in this outstanding achievement which gathered more than 160 attendees and 14 keynote speakers around 56 platform presentations and 38 posters. <br/></p>
+<p>
+  </p>
+</details>
+
+### Membership 
+<p class="plain-text">
+   ECOTOX INRAE network animation team <a href='https://eng-ecotox.hub.inrae.fr/'>(ECOTOX)</a> <br/>
+   Co-coordinator of the Young Ecotoxicologists Group of the ECOTOX INRAE network <a href='https://ecotox.hub.inrae.fr/actualites/yeg-ecotox'>(YEG)</a> <br/>
+   Co-coordinator of the Pesticides & Pollinators Group of the POLLINECO network <a href='https://pollineco.org/'>(POLLINECO)</a> <br/>
+   British Ecological Society <a href='https://www.britishecologicalsociety.org/'>(BES)</a> <br/>
+   French Reproducible Research Network <a href='https://www.recherche-reproductible.fr/'>(FR-RR)</a> <br/>
+   Soci&eacute;t&eacute; Française d’&Eacute;cologie et d’&Eacute;volution <a href='https://sfecologie.org/'>(SFE²)</a> <br/>
+   Society of Environmental Toxicology and Chemistry <a href='https://www.setac.org/'>(SETAC)</a> <br/>
+   Society for open, reliable and transparent ecology and evolutionary biology <a href='https://www.sortee.org/'>(SORTEE)</a> <br/>
+   Statistical ecology research network <a href='https://sites.google.com/site/gdrecostat/'>(EcoStat)</a></p>
+
+***
+
+## Peer reviews & editorial duties
+
+### Peer reviews
+
+{{< include _generated/reviews-journals.html >}}
+
+### Review summary
+
+{{< include _generated/reviews-yearly.html >}}
+
+### Editorial duties
+   Data editor at <a href='https://onlinelibrary.wiley.com/journal/14610248'>Ecology Letters (since June 2023)</a> <br/>
+   Review editor at <a href='https://www.frontiersin.org/'>Frontiers in Fish Science (since Aug. 2023)</a> <br/>
+
+***
+
+## Hobbies
+<p class="plain-text">
+   Hiking/fishing: Fauna and flora watching and photography <br/>
+   Sports: Basket ball, running <br/>
+   Travel: Cultural and naturalist trip (Western Europe, China, Sri Lanka, Malaysia, Nicaragua)</p>
+
+:::

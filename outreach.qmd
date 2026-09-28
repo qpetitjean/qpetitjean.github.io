@@ -1,0 +1,47 @@
+---
+title: Outreach
+description: Sharing ecotoxicology and pollinator research through public events and educational games.
+toc: true
+---
+
+Research also means sharing questions and discoveries beyond the scientific community. Here are some of the public events and collaborative resources I have contributed to.
+
+## Public events {#public-events}
+
+::: {.research-block}
+<p class="eyebrow">Pint of Science 2026 · Valence, France · In French</p>
+
+### Les pollinisateurs sous pression ! {#pint-of-science-2026}
+
+[Aimie Berger-Dauxère](https://www.linkedin.com/in/aimie-berger-daux%C3%A8re-753a95158/) and I Joined [Pint of Science](https://pintofscience.fr/) 2026 in Valence at the invitation of [Fondation evertéa](https://fondationevertea.org/). During our talk, Les pollinisateurs sous pression! (“Pollinators under pressure!”), we chatted about the amazing diversity of pollinators, the challenges they face, and the research being carried out by INRAE’s Bees & Environment unit.
+Hosted at **Le Cause Toujours**, the evening really brought the topic to life, with specimens from the unit’s wild bee collection, including the emergence of live wild bees.
+
+
+[Read the recap and see photos on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7465330946477551616){.text-link}
+:::
+
+## Learning ecotoxicology through play {#yeg-games}
+
+Together with colleagues from the **Young Ecotoxicologists Group (YEG)**, part of the [INRAE ECOTOX network](https://ecotox.hub.inrae.fr/groupe-jeunes), I have contributed to an educational kit that introduces ecotoxicology through two complementary games. 
+
+### Jeu de la Chaîne alimentaire
+
+**For primary-school children.** Players reconstruct a food chain and follow pollution from urban, industrial and agricultural sources. The activity introduces feeding relationships and the routes by which organisms are exposed to contaminants.
+
+[Explore the food-chain game (French)](https://kitpedagoyeg.github.io/siteweb/jeudelachaine.html)
+
+### Jeu de l’Oie contaminée
+
+**For secondary-school pupils and older audiences.** Players take the role of an organism moving through different habitats, aiming to reach the finish while collecting as little pollution as possible. The game opens discussions about contaminants, their movement through the environment and their effects on living organisms.
+
+[Explore the board game (French)](https://kitpedagoyeg.github.io/siteweb/jeudeloie.html)
+
+### Use the kit
+
+The project website brings together game descriptions, materials information and the [full team credits](https://kitpedagoyeg.github.io/siteweb/team.html). For help preparing an activity or arranging a kit loan, [contact the YEG kit team](https://kitpedagoyeg.github.io/siteweb/contact.html).
+
+[Visit the YEG educational kit website](https://kitpedagoyeg.github.io/siteweb/){.button-link}
+
+---
+
+Looking for conference presentations? See [Talks & posters](communications.qmd).

@@ -1,0 +1,1306 @@
+{
+  "schema_version": 1,
+  "entries": {
+    "10.1002/jez.2430": {
+      "csl": {
+        "publisher": "Wiley",
+        "issue": "2",
+        "DOI": "10.1002/jez.2430",
+        "type": "article-journal",
+        "page": "250-264",
+        "title": "Dose‐ and time‐dependent effects of an immune challenge on fish across biological levels",
+        "volume": "335",
+        "author": [
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Lisa",
+            "family": "Jacquin"
+          },
+          {
+            "given": "Michel",
+            "family": "LeHénaff"
+          },
+          {
+            "given": "Annie",
+            "family": "Perrault"
+          },
+          {
+            "given": "Myriam",
+            "family": "Cousseau"
+          },
+          {
+            "given": "Pascal",
+            "family": "Laffaille"
+          },
+          {
+            "given": "Séverine",
+            "family": "Jean"
+          }
+        ],
+        "container-title": "Journal of Experimental Zoology Part A: Ecological and Integrative Physiology",
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              11,
+              17
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1002/jez.2430",
+        "ISSN": [
+          "2471-5638",
+          "2471-5646"
+        ]
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    },
+    "10.1007/s10695-019-00706-6": {
+      "csl": {
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "1",
+        "DOI": "10.1007/s10695-019-00706-6",
+        "type": "article-journal",
+        "page": "157-176",
+        "title": "Combined effects of temperature increase and immune challenge in two wild gudgeon populations",
+        "volume": "46",
+        "author": [
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Séverine",
+            "family": "Jean"
+          },
+          {
+            "given": "Jessica",
+            "family": "Côte"
+          },
+          {
+            "given": "Amaïa",
+            "family": "Lamarins"
+          },
+          {
+            "given": "Marie",
+            "family": "Lefranc"
+          },
+          {
+            "given": "Raphaël",
+            "family": "Santos"
+          },
+          {
+            "given": "Annie",
+            "family": "Perrault"
+          },
+          {
+            "given": "Pascal",
+            "family": "Laffaille"
+          },
+          {
+            "given": "Lisa",
+            "family": "Jacquin"
+          }
+        ],
+        "container-title": "Fish Physiology and Biochemistry",
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              16
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s10695-019-00706-6",
+        "ISSN": [
+          "0920-1742",
+          "1573-5168"
+        ]
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    },
+    "10.1007/s11356-016-8261-1": {
+      "csl": {
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "12",
+        "DOI": "10.1007/s11356-016-8261-1",
+        "type": "article-journal",
+        "page": "11303-11312",
+        "title": "Encaged Chironomus riparius larvae in assessment of trace metal bioavailability and transfer in a landfill leachate collection pond",
+        "volume": "25",
+        "author": [
+          {
+            "given": "Frédéric",
+            "family": "Gimbert"
+          },
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Ahmed",
+            "family": "Al-Ashoor"
+          },
+          {
+            "given": "Céline",
+            "family": "Cretenet"
+          },
+          {
+            "given": "Lotfi",
+            "family": "Aleya"
+          }
+        ],
+        "container-title": "Environmental Science and Pollution Research",
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s11356-016-8261-1",
+        "ISSN": [
+          "0944-1344",
+          "1614-7499"
+        ]
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    },
+    "10.1007/s11356-023-26189-w": {
+      "csl": {
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "19",
+        "DOI": "10.1007/s11356-023-26189-w",
+        "type": "article-journal",
+        "page": "55678-55698",
+        "title": "Adaptive plastic responses to metal contamination in a multistress context: a field experiment in fish",
+        "volume": "30",
+        "author": [
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Pascal",
+            "family": "Laffaille"
+          },
+          {
+            "given": "Annie",
+            "family": "Perrault"
+          },
+          {
+            "given": "Myriam",
+            "family": "Cousseau"
+          },
+          {
+            "given": "Séverine",
+            "family": "Jean"
+          },
+          {
+            "given": "Lisa",
+            "family": "Jacquin"
+          }
+        ],
+        "container-title": "Environmental Science and Pollution Research",
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1007/s11356-023-26189-w",
+        "ISSN": [
+          "1614-7499"
+        ]
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    },
+    "10.1016/j.chemosphere.2021.130337": {
+      "csl": {
+        "publisher": "Elsevier BV",
+        "DOI": "10.1016/j.chemosphere.2021.130337",
+        "type": "article-journal",
+        "page": "130337",
+        "title": "Origin, fate and ecotoxicity of manganese from legacy metallurgical wastes",
+        "volume": "277",
+        "author": [
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Flavien",
+            "family": "Choulet"
+          },
+          {
+            "given": "Anne-Véronique",
+            "family": "Walter-Simonnet"
+          },
+          {
+            "given": "Anne-Lise",
+            "family": "Mariet"
+          },
+          {
+            "given": "Hervé",
+            "family": "Laurent"
+          },
+          {
+            "given": "Patrick",
+            "family": "Rosenthal"
+          },
+          {
+            "given": "Annette",
+            "family": "de Vaufleury"
+          },
+          {
+            "given": "Frédéric",
+            "family": "Gimbert"
+          }
+        ],
+        "container-title": "Chemosphere",
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.chemosphere.2021.130337",
+        "ISSN": [
+          "0045-6535"
+        ]
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    },
+    "10.1016/j.envpol.2020.116042": {
+      "csl": {
+        "publisher": "Elsevier BV",
+        "DOI": "10.1016/j.envpol.2020.116042",
+        "type": "article-journal",
+        "page": "116042",
+        "title": "Intraspecific variability of responses to combined metal contamination and immune challenge among wild fish populations",
+        "volume": "272",
+        "author": [
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Lisa",
+            "family": "Jacquin"
+          },
+          {
+            "given": "Louna",
+            "family": "Riem"
+          },
+          {
+            "given": "Mathilde",
+            "family": "Pitout"
+          },
+          {
+            "given": "Annie",
+            "family": "Perrault"
+          },
+          {
+            "given": "Myriam",
+            "family": "Cousseau"
+          },
+          {
+            "given": "Pascal",
+            "family": "Laffaille"
+          },
+          {
+            "given": "Séverine",
+            "family": "Jean"
+          }
+        ],
+        "container-title": "Environmental Pollution",
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.envpol.2020.116042",
+        "ISSN": [
+          "0269-7491"
+        ]
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    },
+    "10.1016/j.scitotenv.2019.05.357": {
+      "csl": {
+        "publisher": "Elsevier BV",
+        "DOI": "10.1016/j.scitotenv.2019.05.357",
+        "type": "article-journal",
+        "page": "371-380",
+        "title": "Stress responses in fish: From molecular to evolutionary processes",
+        "volume": "684",
+        "author": [
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Séverine",
+            "family": "Jean"
+          },
+          {
+            "given": "Allison",
+            "family": "Gandar"
+          },
+          {
+            "given": "Jessica",
+            "family": "Côte"
+          },
+          {
+            "given": "Pascal",
+            "family": "Laffaille"
+          },
+          {
+            "given": "Lisa",
+            "family": "Jacquin"
+          }
+        ],
+        "container-title": "Science of The Total Environment",
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.scitotenv.2019.05.357",
+        "ISSN": [
+          "0048-9697"
+        ]
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    },
+    "10.1016/j.scitotenv.2020.140657": {
+      "csl": {
+        "publisher": "Elsevier BV",
+        "DOI": "10.1016/j.scitotenv.2020.140657",
+        "type": "article-journal",
+        "page": "140657",
+        "title": "Direct and indirect effects of multiple environmental stressors on fish health in human-altered rivers",
+        "volume": "742",
+        "author": [
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Séverine",
+            "family": "Jean"
+          },
+          {
+            "given": "Jessica",
+            "family": "Côte"
+          },
+          {
+            "given": "Thibaut",
+            "family": "Larcher"
+          },
+          {
+            "given": "Fréderic",
+            "family": "Angelier"
+          },
+          {
+            "given": "Cécile",
+            "family": "Ribout"
+          },
+          {
+            "given": "Annie",
+            "family": "Perrault"
+          },
+          {
+            "given": "Pascal",
+            "family": "Laffaille"
+          },
+          {
+            "given": "Lisa",
+            "family": "Jacquin"
+          }
+        ],
+        "container-title": "Science of The Total Environment",
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.scitotenv.2020.140657",
+        "ISSN": [
+          "0048-9697"
+        ]
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    },
+    "10.1016/j.softx.2024.101674": {
+      "csl": {
+        "publisher": "Elsevier BV",
+        "DOI": "10.1016/j.softx.2024.101674",
+        "type": "article-journal",
+        "page": "101674",
+        "title": "MoveR: An R package for easy processing and analysis of animal video-tracking data",
+        "volume": "26",
+        "author": [
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Silène",
+            "family": "Lartigue"
+          },
+          {
+            "given": "Mélina",
+            "family": "Cointe"
+          },
+          {
+            "given": "Nicolas",
+            "family": "Ris"
+          },
+          {
+            "given": "Vincent",
+            "family": "Calcagno"
+          }
+        ],
+        "container-title": "SoftwareX",
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              5
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.softx.2024.101674",
+        "ISSN": [
+          "2352-7110"
+        ]
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    },
+    "10.1101/2023.11.08.566216": {
+      "csl": {
+        "publisher": "openRxiv",
+        "DOI": "10.1101/2023.11.08.566216",
+        "type": "article",
+        "title": "MoveR: an R package for easy processing and analysis of animal video-tracking data",
+        "author": [
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Silène",
+            "family": "Lartigue"
+          },
+          {
+            "given": "Mélina",
+            "family": "Cointe"
+          },
+          {
+            "given": "Nicolas",
+            "family": "Ris"
+          },
+          {
+            "given": "Vincent",
+            "family": "Calcagno"
+          }
+        ],
+        "container-title": "",
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              13
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1101/2023.11.08.566216"
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Preprint",
+      "published_dois": [
+        "10.1016/j.softx.2024.101674"
+      ]
+    },
+    "10.1101/2025.01.26.634944": {
+      "csl": {
+        "publisher": "openRxiv",
+        "DOI": "10.1101/2025.01.26.634944",
+        "type": "article",
+        "title": "Behavior and Physiology Outpace Form When Linking Traits to Ecological Responses Within Populations: A Meta-Analysis",
+        "author": [
+          {
+            "given": "Thibaut",
+            "family": "Rota"
+          },
+          {
+            "given": "Allan",
+            "family": "Raffard"
+          },
+          {
+            "given": "Iris",
+            "family": "Lang"
+          },
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Lisa",
+            "family": "Jacquin"
+          },
+          {
+            "given": "Olivier",
+            "family": "Dézerald"
+          },
+          {
+            "given": "Simon",
+            "family": "Blanchet"
+          },
+          {
+            "given": "Andrew P.",
+            "family": "Hendry"
+          },
+          {
+            "given": "Régis",
+            "family": "Céréghino"
+          }
+        ],
+        "container-title": "",
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              27
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1101/2025.01.26.634944"
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Preprint",
+      "published_dois": [
+        "10.1086/740828"
+      ]
+    },
+    "10.1101/2025.03.21.644596": {
+      "csl": {
+        "publisher": "openRxiv",
+        "DOI": "10.1101/2025.03.21.644596",
+        "type": "article",
+        "title": "Experimental metal contamination reduces gut microbiota diversity and alters its composition and function in wild-caught fish",
+        "author": [
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Séverine",
+            "family": "Jean"
+          },
+          {
+            "given": "Margarita",
+            "family": "Granada"
+          },
+          {
+            "given": "Sophie",
+            "family": "Manzi"
+          },
+          {
+            "given": "Charlotte",
+            "family": "Veyssiere"
+          },
+          {
+            "given": "Annie",
+            "family": "Perrault"
+          },
+          {
+            "given": "Myriam",
+            "family": "Cousseau"
+          },
+          {
+            "given": "Pascal",
+            "family": "Laffaille"
+          },
+          {
+            "given": "Lisa",
+            "family": "Jacquin"
+          },
+          {
+            "given": "Joël",
+            "family": "White"
+          }
+        ],
+        "container-title": "",
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              21
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1101/2025.03.21.644596"
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Preprint",
+      "published_dois": []
+    },
+    "10.1126/science.aeg6003": {
+      "csl": {
+        "publisher": "American Association for the Advancement of Science (AAAS)",
+        "issue": "6796",
+        "DOI": "10.1126/science.aeg6003",
+        "type": "article-journal",
+        "page": "366-366",
+        "title": "France must protect pollinators over pesticides",
+        "volume": "392",
+        "author": [
+          {
+            "given": "Bertrand",
+            "family": "Schatz"
+          },
+          {
+            "given": "Lucas",
+            "family": "Aubouin"
+          },
+          {
+            "given": "Virginie",
+            "family": "Cuvillier"
+          },
+          {
+            "given": "Nicolas",
+            "family": "Deguines"
+          },
+          {
+            "given": "Colin",
+            "family": "Fontaine"
+          },
+          {
+            "given": "Guillaume",
+            "family": "Ghisbain"
+          },
+          {
+            "given": "Nina",
+            "family": "Hautekèete"
+          },
+          {
+            "given": "Mickael",
+            "family": "Henry"
+          },
+          {
+            "given": "Denis",
+            "family": "Michez"
+          },
+          {
+            "given": "Adrien",
+            "family": "Perrard"
+          },
+          {
+            "given": "Yves",
+            "family": "Piquot"
+          },
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Emmanuelle",
+            "family": "Porcher"
+          },
+          {
+            "given": "Lise",
+            "family": "Ropars"
+          },
+          {
+            "given": "Freddie-Jeanne",
+            "family": "Richard"
+          },
+          {
+            "given": "Lucie",
+            "family": "Schurr"
+          },
+          {
+            "given": "Mathilde",
+            "family": "Tissier"
+          },
+          {
+            "given": "Benoît",
+            "family": "Geslin"
+          }
+        ],
+        "container-title": "Science",
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              23
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1126/science.aeg6003",
+        "ISSN": [
+          "0036-8075",
+          "1095-9203"
+        ]
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    },
+    "10.32942/x24p8s": {
+      "csl": {
+        "publisher": "California Digital Library (CDL)",
+        "DOI": "10.32942/x24p8s",
+        "type": "article",
+        "title": "The SORTEE Guidelines for Data and Code Quality Control in Ecology and Evolutionary Biology",
+        "author": [
+          {
+            "given": "Joel",
+            "family": "Pick"
+          },
+          {
+            "given": "Bethany",
+            "family": "Allen"
+          },
+          {
+            "given": "Benedicte",
+            "family": "Bachelot"
+          },
+          {
+            "given": "Kevin",
+            "family": "Bairos-Novak"
+          },
+          {
+            "given": "Jack",
+            "family": "Brand"
+          },
+          {
+            "given": "Barbara",
+            "family": "Class"
+          },
+          {
+            "given": "Tad",
+            "family": "Dallas"
+          },
+          {
+            "given": "Pietro",
+            "family": "D'Amelio"
+          },
+          {
+            "given": "Erola",
+            "family": "Fenollosa"
+          },
+          {
+            "given": "Esteban",
+            "family": "Fernández-Juricic"
+          },
+          {
+            "given": "Dylan",
+            "family": "Gomes"
+          },
+          {
+            "given": "Matthew",
+            "family": "Grainger"
+          },
+          {
+            "given": "Thomas",
+            "family": "Guillemaud"
+          },
+          {
+            "given": "Christian",
+            "family": "John"
+          },
+          {
+            "given": "Ruby",
+            "family": "Krasnow"
+          },
+          {
+            "given": "Malgorzata",
+            "family": "Lagisz"
+          },
+          {
+            "given": "Sebastian",
+            "family": "Lequime"
+          },
+          {
+            "given": "Daniel",
+            "family": "Maynard"
+          },
+          {
+            "given": "Shinichi",
+            "family": "Nakagawa"
+          },
+          {
+            "given": "Rose",
+            "family": "O'Dea"
+          },
+          {
+            "given": "Matthieu",
+            "family": "Paquet"
+          },
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Alfredo",
+            "family": "Sánchez-Tójar"
+          },
+          {
+            "given": "Natalie",
+            "family": "van Dis"
+          },
+          {
+            "given": "Laura",
+            "family": "Wilson"
+          },
+          {
+            "given": "Ed R.",
+            "family": "Ivimey-Cook"
+          }
+        ],
+        "container-title": "",
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.32942/x24p8s"
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Preprint",
+      "published_dois": [
+        "10.24072/pcjournal.687"
+      ]
+    },
+    "10.3389/fevo.2020.00086": {
+      "csl": {
+        "publisher": "Frontiers Media SA",
+        "DOI": "10.3389/fevo.2020.00086",
+        "type": "article-journal",
+        "title": "Effects of Pollution on Fish Behavior, Personality, and Cognition: Some Research Perspectives",
+        "volume": "8",
+        "author": [
+          {
+            "given": "Lisa",
+            "family": "Jacquin"
+          },
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Jessica",
+            "family": "Côte"
+          },
+          {
+            "given": "Pascal",
+            "family": "Laffaille"
+          },
+          {
+            "given": "Séverine",
+            "family": "Jean"
+          }
+        ],
+        "container-title": "Frontiers in Ecology and Evolution",
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.3389/fevo.2020.00086",
+        "ISSN": [
+          "2296-701X"
+        ]
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    },
+    "10.70675/2a41fa24z710fz48fcz8e09zd7897f4e9884": {
+      "csl": {
+        "publisher": "Agence Bibliographique de l'Enseignement Supérieur",
+        "DOI": "10.70675/2a41fa24z710fz48fcz8e09zd7897f4e9884",
+        "type": "thesis",
+        "title": "Variabilité de réponse aux stress multiples chez le goujon (Gobio occitaniae)",
+        "author": [
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          }
+        ],
+        "container-title": "",
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.70675/2a41fa24z710fz48fcz8e09zd7897f4e9884"
+      },
+      "fetched_at": "2026-09-28T08:44:02+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    },
+    "10.1086/740828": {
+      "csl": {
+        "publisher": "University of Chicago Press",
+        "issue": "1",
+        "DOI": "10.1086/740828",
+        "type": "article-journal",
+        "page": "30-55",
+        "title": "Behavior and Physiology Outpace Form When Linking Traits to Ecological Responses within Populations: A Meta-Analysis",
+        "volume": "208",
+        "author": [
+          {
+            "given": "Thibaut",
+            "family": "Rota"
+          },
+          {
+            "given": "Allan",
+            "family": "Raffard"
+          },
+          {
+            "given": "Iris",
+            "family": "Lang"
+          },
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Lisa",
+            "family": "Jacquin"
+          },
+          {
+            "given": "Olivier",
+            "family": "Dézerald"
+          },
+          {
+            "given": "Simon",
+            "family": "Blanchet"
+          },
+          {
+            "given": "Andrew P.",
+            "family": "Hendry"
+          },
+          {
+            "given": "Régis",
+            "family": "Céréghino"
+          }
+        ],
+        "container-title": "The American Naturalist",
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/740828",
+        "ISSN": [
+          "0003-0147",
+          "1537-5323"
+        ]
+      },
+      "fetched_at": "2026-09-28T08:57:18+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    },
+    "10.24072/pcjournal.687": {
+      "csl": {
+        "publisher": "Peer Community In",
+        "DOI": "10.24072/pcjournal.687",
+        "type": "article-journal",
+        "title": "The SORTEE guidelines for data and code quality control in ecology and evolutionary biology",
+        "volume": "6",
+        "author": [
+          {
+            "given": "Joel L",
+            "family": "Pick"
+          },
+          {
+            "given": "Bethany J",
+            "family": "Allen"
+          },
+          {
+            "given": "Benedicte",
+            "family": "Bachelot"
+          },
+          {
+            "given": "Kevin R",
+            "family": "Bairos-Novak"
+          },
+          {
+            "given": "Jack A",
+            "family": "Brand"
+          },
+          {
+            "given": "Barbara",
+            "family": "Class"
+          },
+          {
+            "given": "Tad",
+            "family": "Dallas"
+          },
+          {
+            "given": "Pietro B",
+            "family": "D'Amelio"
+          },
+          {
+            "given": "Erola",
+            "family": "Fenollosa"
+          },
+          {
+            "given": "Esteban",
+            "family": "Fernández-Juricic"
+          },
+          {
+            "given": "Dylan G E",
+            "family": "Gomes"
+          },
+          {
+            "given": "Matthew J",
+            "family": "Grainger"
+          },
+          {
+            "given": "Thomas",
+            "family": "Guillemaud"
+          },
+          {
+            "given": "Christian",
+            "family": "John"
+          },
+          {
+            "given": "Ruby",
+            "family": "Krasnow"
+          },
+          {
+            "given": "Malgorzata",
+            "family": "Lagisz"
+          },
+          {
+            "given": "Sebastian",
+            "family": "Lequime"
+          },
+          {
+            "given": "Daniel S",
+            "family": "Maynard"
+          },
+          {
+            "given": "Shinichi",
+            "family": "Nakagawa"
+          },
+          {
+            "given": "Rose E",
+            "family": "O'Dea"
+          },
+          {
+            "given": "Matthieu",
+            "family": "Paquet"
+          },
+          {
+            "given": "Quentin",
+            "family": "Petitjean"
+          },
+          {
+            "given": "Alfredo",
+            "family": "Sánchez-Tójar"
+          },
+          {
+            "given": "Natalie E",
+            "family": "van Dis"
+          },
+          {
+            "given": "Laura A B",
+            "family": "Wilson"
+          },
+          {
+            "given": "Edward R",
+            "family": "Ivimey-Cook"
+          }
+        ],
+        "container-title": "Peer Community Journal",
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              13
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.24072/pcjournal.687",
+        "ISSN": [
+          "2804-3871"
+        ]
+      },
+      "fetched_at": "2026-09-28T08:57:18+00:00",
+      "source": "Crossref",
+      "kind": "Article",
+      "published_dois": []
+    }
+  },
+  "discovered": {
+    "10.1126/science.aeg6003": {
+      "source": "ORCID",
+      "title": "France must protect pollinators over pesticides",
+      "work_type": "journal-article"
+    },
+    "10.32942/x24p8s": {
+      "source": "ORCID",
+      "title": "The SORTEE Guidelines for Data and Code Quality Control in Ecology and Evolutionary Biology",
+      "work_type": "preprint"
+    },
+    "10.1101/2025.03.21.644596": {
+      "source": "ORCID",
+      "title": "Experimental metal contamination reduces gut microbiota diversity and alters its composition and function in wild-caught fish",
+      "work_type": "preprint"
+    },
+    "10.1101/2025.01.26.634944": {
+      "source": "ORCID",
+      "title": "Behavior and Physiology Outpace Form When Linking Traits to Ecological Responses Within Populations: A Meta-Analysis",
+      "work_type": "preprint"
+    },
+    "10.1016/j.softx.2024.101674": {
+      "source": "ORCID",
+      "title": "MoveR: An R package for easy processing and analysis of animal video-tracking data",
+      "work_type": "journal-article"
+    },
+    "10.1101/2023.11.08.566216": {
+      "source": "ORCID",
+      "title": "MoveR: an R package for easy processing and analysis of animal video-tracking data",
+      "work_type": "preprint"
+    },
+    "10.1007/s11356-023-26189-w": {
+      "source": "ORCID",
+      "title": "Adaptive plastic responses to metal contamination in a multistress context: a field experiment in fish",
+      "work_type": "journal-article"
+    },
+    "10.1016/j.chemosphere.2021.130337": {
+      "source": "ORCID",
+      "title": "Origin, fate and ecotoxicity of manganese from legacy metallurgical wastes",
+      "work_type": "journal-article"
+    },
+    "10.1016/j.envpol.2020.116042": {
+      "source": "ORCID",
+      "title": "Intraspecific variability of responses to combined metal contamination and immune challenge among wild fish populations",
+      "work_type": "journal-article"
+    },
+    "10.1002/jez.2430": {
+      "source": "ORCID",
+      "title": "Dose‐ and time‐dependent effects of an immune challenge on fish across biological levels",
+      "work_type": "journal-article"
+    },
+    "10.1016/j.scitotenv.2020.140657": {
+      "source": "ORCID",
+      "title": "Direct and indirect effects of multiple environmental stressors on fish health in human-altered rivers",
+      "work_type": "journal-article"
+    },
+    "10.3389/fevo.2020.00086": {
+      "source": "ORCID",
+      "title": "Effects of Pollution on Fish Behavior, Personality, and Cognition: Some Research Perspectives",
+      "work_type": "journal-article"
+    },
+    "10.70675/2a41fa24z710fz48fcz8e09zd7897f4e9884": {
+      "source": "ORCID",
+      "title": "Variabilité de réponse aux stress multiples chez le goujon (Gobio occitaniae)",
+      "work_type": "dissertation-thesis"
+    },
+    "10.1007/s10695-019-00706-6": {
+      "source": "ORCID",
+      "title": "Combined effects of temperature increase and immune challenge in two wild gudgeon populations",
+      "work_type": "journal-article"
+    },
+    "10.1016/j.scitotenv.2019.05.357": {
+      "source": "ORCID",
+      "title": "Stress responses in fish: From molecular to evolutionary processes",
+      "work_type": "journal-article"
+    },
+    "10.1007/s11356-016-8261-1": {
+      "source": "ORCID",
+      "title": "Encaged Chironomus riparius larvae in assessment of trace metal bioavailability and transfer in a landfill leachate collection pond",
+      "work_type": "journal-article"
+    },
+    "10.1086/740828": {
+      "source": "Published version linked by DOI metadata"
+    },
+    "10.24072/pcjournal.687": {
+      "source": "Published version linked by DOI metadata"
+    }
+  },
+  "last_success": "2026-09-28T08:57:18+00:00",
+  "last_attempt": "2026-09-28T08:57:18+00:00"
+}

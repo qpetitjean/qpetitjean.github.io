@@ -1,0 +1,40 @@
+---
+title: About & contact
+description: Quentin Petitjean, research scientist at INRAE in Avignon, France.
+---
+
+::: {.profile-intro}
+![Quentin Petitjean outdoors.](assets/IMG_0143.JPG){fig-alt="Quentin Petitjean outdoors"}
+
+::: {}
+I am a research scientist at [INRAE](https://www.inrae.fr/), in [the Bees & Environment research unit](https://eng-abeilles-et-environnement.paca.hub.inrae.fr/) in Avignon, France. I study how environmental stressors, especially contaminants affect organisms, and how variation among individuals and populations shapes their responses.
+
+My research has taken me from contaminants in soils and freshwater ecosystems to animal behaviour, microbiota and pollinator health. Across these systems, I use integrative approaches to investigate biological responses across scales.
+
+I enjoy working with R, developing practical tools, and contributing to open and reproducible research.
+:::
+:::
+
+[Full curriculum vitae](cv.qmd){.button-link} [Talks & posters](communications.qmd){.text-link}
+
+## In the media
+
+INRAE published a [portrait of my research journey](https://www.inrae.fr/actualites/quentin-petitjean-entre-ecotoxicologie-abeilles-science-ouverte) on 12 May 2026, covering ecotoxicology, wild bees and open science. The article is in French.
+
+For public events and educational games, visit [Outreach](outreach.qmd).
+
+## Contact {#contact}
+
+**Email:** [quentin.petitjean@inrae.fr](mailto:quentin.petitjean@inrae.fr)
+
+**Institution:** [Bees & Environment, INRAE](https://abeilles-et-environnement.paca.hub.inrae.fr/), Avignon, France.
+
+## Find my work
+
+[ORCID](https://orcid.org/0000-0003-2708-7831) · [Google Scholar](https://scholar.google.com/citations?user=GMudi1sAAAAJ&hl=en) · [HAL](https://cv.hal.science/qpetitjean) · [GitHub](https://github.com/qpetitjean)
+
+[Bluesky](https://bsky.app/profile/qpetitjean.bsky.social) · [LinkedIn](https://fr.linkedin.com/in/quentin-petitjean-phd-aba3b5aa) · [ResearchGate](https://www.researchgate.net/profile/Quentin-Petitjean-2)
+
+## Beyond research
+
+I enjoy hiking, observing and photographing wildlife, basketball, running, and travelling to discover different cultures and natural environments.

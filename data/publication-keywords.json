@@ -1,0 +1,82 @@
+{
+  "verified_on": "2026-09-28",
+  "policy": "Use only keyword lists reported in the work or its author-keyword metadata. Preserve wording; do not infer from titles or use journal subject categories. Empty lists mean no author-keyword list was verified.",
+  "records": {
+    "10.1007/s11356-016-8261-1": {
+      "keywords": ["Active biomonitoring", "Wetland", "Toxicokinetics", "Fractionation", "Contamination sources"],
+      "source": "PubList/Gimbertetal2018-ENVIRON_SCI_POLLUT_R.pdf",
+      "location": "Keywords section"
+    },
+    "10.1016/j.scitotenv.2019.05.357": {
+      "keywords": ["Multiple stressors", "Metabolic strategy", "Adaptation", "Evolutionary ecotoxicology", "Transgenerational effects"],
+      "source": "PubList/Petitjeanetal2019-SCI_TOTAL_ENVIRON.pdf",
+      "location": "Keywords section"
+    },
+    "10.1007/s10695-019-00706-6": {
+      "keywords": ["Multiple stressors", "Climate change", "Pathogens", "Physiology", "Behaviour", "Inter-population variability"],
+      "source": "PubList/Petitjeanetal2020-FISH_PHYSIOL_BIOCHEM.pdf",
+      "location": "Keywords section"
+    },
+    "10.1016/j.scitotenv.2020.140657": {
+      "keywords": ["Pollution", "Trace metals", "Global change", "Parasitism", "Ecophysiology", "Structural equation modelling"],
+      "source": "PubList/Petitjeanetal2020-SCI_TOTAL_ENVIRON.pdf",
+      "location": "Keywords section"
+    },
+    "10.3389/fevo.2020.00086": {
+      "keywords": ["temperament", "contamination", "global change", "stress response", "multistress", "evolutionary ecotoxicology", "local adaptation"],
+      "source": "PubList/Jacquinetal2020-FRONT_ECOL_EVOL.pdf",
+      "location": "Keywords section"
+    },
+    "10.1002/jez.2430": {
+      "keywords": ["dose–response", "ecoimmunology", "energy storage", "oxidative stress", "pathogen", "sickness behavior"],
+      "source": "PubList/Petitjeanetal2021-J_EXP_ZOOL_PART_A.pdf",
+      "location": "Keywords section"
+    },
+    "10.1016/j.chemosphere.2021.130337": {
+      "keywords": ["Slags", "Weathering", "Metals", "Chemical extraction", "Bioavailability", "Snails"],
+      "source": "PubList/Petitjeanetal2021-CHEMOSPHERE.pdf",
+      "location": "Keywords section"
+    },
+    "10.1016/j.envpol.2020.116042": {
+      "keywords": ["Multiple stressors", "Evolutionary-ecotoxicology", "Metabolic strategy", "Fish behavior", "Human-altered rivers"],
+      "source": "PubList/Petitjeanetal2021-ENVIRON_POLLUT.pdf",
+      "location": "Keywords section"
+    },
+    "10.1007/s11356-023-26189-w": {
+      "keywords": ["Adaptation/maladaptation", "Antigens", "Trace metals", "Multistress", "Parasite", "Plasticity"],
+      "source": "PubList/Petitjeanetal2023-ENVIRON_SCI_POLLUT_R.pdf",
+      "location": "Keywords section"
+    },
+    "10.1016/j.softx.2024.101674": {
+      "keywords": ["Video-tracking", "Trajectories", "Animal Movement", "Behavior"],
+      "source": "https://www.researchgate.net/publication/375630818_MoveR_an_R_package_for_easy_processing_and_analysis_of_animal_video-tracking_data",
+      "location": "Published SoftwareX 26 (2024) 101674 PDF, Keywords section; author-deposited copy"
+    },
+    "10.1101/2025.03.21.644596": {
+      "keywords": ["Metal Contamination", "Immune Challenge", "Wild Freshwater Fish", "Gut Microbiota", "Multiple Stressors", "Gudgeon"],
+      "source": "https://www.researchgate.net/publication/390182270_Experimental_metal_contamination_reduces_gut_microbiota_diversity_and_alters_its_composition_and_function_in_wild-caught_fish",
+      "location": "Author-deposited bioRxiv version of 21 March 2025, page 2, lines 44–45"
+    },
+    "10.1086/740828": {
+      "keywords": ["eco-evolutionary dynamics", "functional traits", "individual-based ecology", "intraspecific trait variation (ITV)", "phenotypic traits", "trait-based ecology"],
+      "source": "https://pubmed.ncbi.nlm.nih.gov/42313790/",
+      "location": "Keywords, excluding the separately listed MeSH terms",
+      "corroborating_source": "https://www.andrew-hendry.ca/uploads/1/2/0/5/120581600/rota2026amnatonline_-_smaller.pdf"
+    },
+    "10.24072/pcjournal.687": {
+      "keywords": ["Data sharing", "Code Sharing", "Computational Reproducibility", "Open Science", "Data Re-use", "Methodological Rigor", "FAIR principles", "Transparency", "Data Editor"],
+      "source": "https://peercommunityjournal.org/articles/10.24072/pcjournal.687/",
+      "location": "Publisher metadata, Keywords"
+    },
+    "10.1126/science.aeg6003": {
+      "keywords": [],
+      "source": "https://doi.org/10.1126/science.aeg6003",
+      "note": "No author-keyword list verified on the accessible publisher page for this letter. Do not substitute inferred topics."
+    },
+    "10.70675/2a41fa24z710fz48fcz8e09zd7897f4e9884": {
+      "keywords": [],
+      "source": "https://theses.hal.science/tel-03132551",
+      "note": "Thesis keyword list not verified; the repository and full-text lookup were unavailable."
+    }
+  }
+}

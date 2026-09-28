@@ -1,0 +1,49 @@
+---
+title: "Guidelines for Data and Code Quality Control"
+description: "The SORTEE Guidelines for Data and Code Quality Control in Ecology and Evolutionary Biology"
+date: "2025-10-24"
+categories: ["Open Science", "Data sharing", "Code Sharing", "FAIR principles", "Data Editor"]
+author: [{"name": "Quentin Petitjean", "url": "https://qpetitjean.github.io/", "affiliation": "Abeilles & Environnement (AE, INRAE), Avignon, France."}]
+---
+
+::: {.legacy-content}
+
+<p class="plain-text">
+I'm happy to have contributed to <em>The SORTEE Guidelines for Data and Code Quality Control in Ecology and Evolutionary Biology</em>, a community effort to make data and code checks clearer, more consistent, and more transparent across journals in ecology and evolution.</p>
+
+    
+
+
+  
+
+
+## The guidelines 
+<p class="plain-text">
+These guidelines offer the first standardized framework for <strong>Data and Code Quality Control</strong> led by SORTEE members and data editors across journals in ecology and evolution. The article introduces what data editors do, why quality control matters and provides a transparent, step-by-step process for checking archived data and code alongside manuscripts. Aimed at journal editors, reviewers, and authors, it outlines expected benefits and costs and gives practical advice for adoption. As a complement to peer review, it helps ensure that shared data and code adhere to the FAIR principles—<em>Findable · Accessible · Interoperable · Reusable</em>—at publication.
+</p>
+
+<p class="plain-text">
+<a href="https://doi.org/10.32942/X24P8S">Check the preprint (DOI: 10.32942/X24P8S)</a>
+</p>
+
+## SORTEE in a nutshell
+<p class="plain-text">
+SORTEE—the <em>Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology</em>—is an international, volunteer-driven community working to improve research reliability and transparency through cultural and institutional change. Activities include producing open-science resources (e.g., the above-mentioned guidelines), hosting webinars and annual unconferences/hackathons, and running the field-specific preprint server <em>EcoEvoRxiv</em>.
+</p>
+
+<p class="plain-text">
+Want a quick tour of SORTEE’s mission and outputs?
+</p>
+
+<ul>
+  <li><a href="https://sortee.org/about/">About SORTEE</a></li>
+  <li><a href="https://sortee.org/outputs/">SORTEE outputs (guidelines, papers, resources)</a></li>
+  <li><a href="https://ecoevorxiv.org/">EcoEvoRxiv preprint server</a></li>
+</ul>
+
+## Want to know more about SORTEE?
+<p class="plain-text">
+Check the <a href='https://sortee.org/'>SORTEE website</a> for news, events, and ways to get involved. You can also follow announcements on social media and in the newsletter.
+</p>
+
+:::

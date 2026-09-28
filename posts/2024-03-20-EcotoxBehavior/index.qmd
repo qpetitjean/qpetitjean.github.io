@@ -1,0 +1,34 @@
+---
+title: "Overview Of The Innovations For Behavioral Ecotoxicology"
+description: "Innovations in Behavioral Ecotoxicology: Exploring the Impacts of Contaminants through Video Analysis Automation"
+date: "2024-03-20"
+categories: ["Ecotoxicology", "Behavior", "Pollution", "video-Tracking", "French language"]
+author: [{"name": "Quentin Petitjean", "url": "https://qpetitjean.github.io/", "affiliation": "Aquatic ecosystems and global change Unit (EABX, INRAE), Cestas, France."}]
+---
+
+::: {.legacy-content}
+
+<p class="plain-text">
+I'm happy to share the Thematic Sheet N°48 written for <a href='https://eng-ecotox.hub.inrae.fr/'>The French ECOTOX network</a>.</p>
+
+    
+
+
+  
+
+
+## The ECOTOX Thematic Sheet N°48 in a nutshell
+
+<p class="plain-text">
+Together with <a href='https://www.raphaelroyaute.com/'>Raphaël Royauté</a>, we have crafted a Thematic Sheet (N°48) for the <a href='https://eng-ecotox.hub.inrae.fr/'>French ECOTOX network</a>. 
+The aim of this article is to offer a non-exhaustive yet insightful overview of the current landscape in behavioral ecotoxicology.</p>  
+<p class="plain-text">
+Our short review leverages open-source technologies and artificial intelligence (AI) to tackle the complexities of behavioral data analysis, representing a significant step forward in our collective understanding of contaminants’ impacts on animals.</p>
+<p class="plain-text">
+Although this thematic sheet offers a snapshot that may quickly become outdated due to the rapid evolution of methods and tools, especially those referring to AI, it is intended as a valuable resource for researchers eager to explore the fascinating field of behavioral ecotoxicology more deeply.</p>
+
+
+<p class="plain-text">
+The full article is available (in French language only) <a href='https://ecotox.hub.inrae.fr/content/download/6168/74743?version=1'>here</a>.</p>
+
+:::

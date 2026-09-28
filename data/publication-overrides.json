@@ -1,0 +1,12 @@
+{
+  "exclude": [],
+  "records": {
+    "10.1007/s11356-016-8261-1": {"csl": {"issued": {"date-parts": [[2018]]}}},
+    "10.1007/s10695-019-00706-6": {"csl": {"issued": {"date-parts": [[2020]]}}},
+    "10.1002/jez.2430": {"csl": {"issued": {"date-parts": [[2021]]}}},
+    "10.1086/740828": {"csl": {"title": "Behavior and physiology outpace form when linking traits to ecological responses within populations: A meta-analysis"}},
+    "10.3389/fevo.2020.00086": {"csl": {"title": "Effects of pollution on fish behavior, personality, and cognition: Some research perspectives"}},
+    "10.70675/2a41fa24z710fz48fcz8e09zd7897f4e9884": {"kind": "Thesis", "csl": {"issued": {"date-parts": [[2019]]}, "publisher": "Université Paul Sabatier–Toulouse III", "genre": "Doctoral dissertation"}},
+    "10.1101/2023.11.08.566216": {"kind": "Preprint", "published_dois": ["10.1016/j.softx.2024.101674"]}
+  }
+}

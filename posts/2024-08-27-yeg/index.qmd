@@ -1,0 +1,48 @@
+---
+title: "Young Ecotoxicologist Group - YEG"
+description: "The group of young ecotoxicologists."
+date: "2024-08-27"
+categories: ["Ecotoxicology", "Young Researchers", "Network", "Collaboration", "Training"]
+author: [{"name": "Quentin Petitjean", "url": "https://qpetitjean.github.io/", "affiliation": "Aquatic ecosystems and global change Unit (EABX, INRAE), Cestas, France."}]
+---
+
+::: {.legacy-content}
+
+<p class="plain-text">
+
+I'm happy to share the creation of the Young Ecotoxicologist Group - YEG belonging to <a href='https://eng-ecotox.hub.inrae.fr/'>the ECOTOX network</a>.</p>
+
+    
+<a title="YEG - ECOTOX network" href='https://ecotox.hub.inrae.fr/groupe-jeunes'>
+<div >
+  <img src="/assets/yeg-logo.webp" alt="Young Ecotoxicologist Group logo" width="180" loading="lazy"/>
+</div></a>
+
+  
+
+
+## The YEG in a nutshell
+
+<p class="plain-text">
+Together with <a href='https://sites.google.com/view/sophiemdupont/home'>Sophie M Dupont</a>, we are proud to participate in the coordination of the Young Ecotoxicologist Group (YEG) from the <a href='https://eng-ecotox.hub.inrae.fr/'>ECOTOX network</a>. 
+The group aims to create a dynamic and inclusive environment for young researchers in ecotoxicology, promoting interactions and collaboration, and enhancing professional development. </p>  
+
+<p class="plain-text">
+The YEG is a key network for sharing experiences and spreading information about events, job offers, and funding opportunities. It also focuses on promoting the exchange of scientific knowledge through monthly webinars and active discussion channels.</p>
+
+<p class="plain-text">
+Are you a Master's student, PhD candidate, research engineer, or post-doctoral researcher? Join us and be part of a dynamic community to improve our understanding of how contaminants affect organisms.</p>
+
+
+For a quick overview about the role of the YEG, check the poster we have presented to the <a href='https://asso-sefa.fr/colloque-de-la-sefa'>SEFA meeting 2024</a> below:
+
+<a title="YEG-Poster.pdf" href="/Posters/Petitjeanetal-YEG-POSTER.pdf">
+    <img src="/assets/yeg-poster.webp" alt="YEG Poster" />
+</a>
+
+## Want to know more about the YEG?
+
+<p class="plain-text">
+Check the <a href='https://ecotox.hub.inrae.fr/groupe-jeunes'>"Groupe jeunes" section of the ECOTOX network's website</a>.</p>
+
+:::

@@ -1,0 +1,53 @@
+---
+title: "Dirty Waterways May Alter Fish Behavior"
+description: "Our research about the effects of pollution on fish behavior has been covered in Undark Magazine."
+date: "2023-01-17"
+categories: ["Press articles", "Fish", "Behavior", "Cognition", "Pollution"]
+author: [{"name": "Quentin Petitjean", "url": "https://qpetitjean.github.io/", "affiliation": "Institut Sophia Agrobiotech, UMR5254 ISA, INRAE, CNRS, Université Côte d’Azur, Sophia-Antipolis, France."}]
+---
+
+::: {.legacy-content}
+
+<p class="plain-text">
+I'm happy to share that our research about <a href='https://www.frontiersin.org/articles/10.3389/fevo.2020.00086/full'>the effects of pollution on fish behavior</a> has been featured in <a href='https://undark.org/'>Undark Magazine</a>.</p> 
+
+
+    
+
+
+  
+
+
+## Undark Magazine
+   
+<p class="plain-text">
+Undark is a non-profit and editorially independent online magazine co-founded in 2016, which explores the intersection of science and society (<a href='https://undark.org/who-is-undark/'>More about it</a>).</p> 
+
+
+## A bit of context
+
+<p class="plain-text">
+Back in 2020, my P.h.D focusing on the effects of multiple stressors on fish health just ended, with exciting results, particularly about the variability of behavioral responses to contaminants exposure among fish populations (check out <a href='/publications.html'>here</a> for further information).</p> 
+<p class="plain-text">
+Briefly, <a href='https://www.sciencedirect.com/science/article/pii/S0269749120367312'>in an article from 2021</a>, we found that when exposed to a metal mixture in the laboratory, some fish populations (particularly those originating from historically contaminated sites) displayed increased activity patterns compared to populations from study sites with low levels of contaminants. We hypothesized that these differences in behavior may have an adaptive value and stressed the need to verify this hypothesis.</p>  
+<p class="plain-text">
+Indeed, because behavior and cognitive abilities are very sensitive to exposure to stressors and may drastically alter ecosystem functioning, such changes may have highly detrimental consequences in the wild. Hence, These preliminary results may be of great importance to help mitigate the effects of pollutants and improve conservation strategies in the wild.</p> 
+<p class="plain-text">
+Accordingly, We had many ideas and perspectives about how stressors could affect behavior and, by extension, cognitive abilities in wild fish. Meanwhile, increasing our understanding of the relationships between cognitive ability and fitness in wild animals became a highly topical issue. Accordingly, with my PhD supervisor, <a href='https://sites.google.com/site/jacquinlisa2'>Lisa Jacquin</a> we gathered and wrote down our ideas in a <a href='https://www.frontiersin.org/articles/10.3389/fevo.2020.00086/full'>perspective article</a> about the effects of pollutants, and more broadly stressors, on fish cognition and behavior.</p>  
+<p class="plain-text">
+The resulting article was then published in a special issue of <a href='https://www.frontiersin.org/journals/ecology-and-evolution'>Frontiers in Ecology and Evolution</a>, focusing on the underlying mechanisms and constraints linking cognition and fitness in the wild (check out <a href='https://www.frontiersin.org/articles/10.3389/fevo.2022.1113701/full'>the special issue editorial article</a>).</p> 
+
+## The feature
+
+<p class="plain-text">
+Recently, I was pleased to be interviewed by <a href='https://twitter.com/DougcJohnson'>Doug Johnson</a> to talk about <a href='https://www.frontiersin.org/articles/10.3389/fevo.2020.00086/full'>our article published in Frontiers in Ecology and Evolution</a>.
+Following our talk, our paper has been covered in <a href='https://undark.org/'>the Undark Magazine</a>. 
+The full free article can be read <a href='https://undark.org/2023/01/16/dirty-waterways-may-alter-fish-behavior/'>on the Undark Magazine webpage</a></p> 
+
+ See also my twitter thread about this feature : <br/> 
+
+ <a title="https://twitter.com/Q_PETITJEAN/status/1615303376824139776" href='https://twitter.com/Q_PETITJEAN/status/1615303376824139776'>
+Read the accompanying thread on Twitter.
+</a>
+
+:::

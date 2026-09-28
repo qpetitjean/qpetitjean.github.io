@@ -1,0 +1,47 @@
+---
+title: "MoveR Package"
+description: "MoveR: An R package for easy analysis of animal video-tracking data"
+date: "2023-07-12"
+categories: ["R package", "Movement", "Behavior"]
+author: [{"name": "Quentin Petitjean", "url": "https://qpetitjean.github.io/", "affiliation": "Institut Sophia Agrobiotech, UMR5254 ISA, INRAE, CNRS, Université Côte d’Azur, Sophia-Antipolis, France."}]
+---
+
+::: {.legacy-content}
+
+<p class="plain-text">
+I'm happy to share the latest release (v0.3.0) of the <a href='https://qpetitjean.github.io/MoveR/index.html'>MoveR package</a>.</p>
+
+    
+
+
+  
+
+
+## MoveR in a nutshell
+
+<p class="plain-text">
+The `MoveR`  is a lightweight R package (mostly coded with base R) representing a full workflow for importing, filtering, visualizing, and analyzing data from common video-tracking solutions.</p>  
+<p class="plain-text">
+Accordingly, `MoveR` includes flexible tools for polishing data, removing tracking artifacts, subsetting and plotting individual paths, and computing different movement and behavior metrics.</p>  
+<p class="plain-text">
+Also, `MoveR` is very versatile and is intended to ease the management and analysis of video-tracking data for both beginners and advanced R users.</p> 
+For a quick overview of the `MoveR` functionalities with a short illustrative example, check the poster I have presented to the <a href='https://entomo2023.sciencesconf.org/'>43èmes journées des Entomophagistes.</a> below:
+
+<a title="MoveR-Poster.pdf" href='/Posters/Petitjeanetal-MOVER-POSTER.pdf'>
+<img src="/assets/mover-poster.webp" alt="MoveR poster describing the animal movement analysis workflow" loading="lazy">
+</a>
+
+
+## Want to know more about MoveR?
+
+<p class="plain-text">
+Check the <a href="https://qpetitjean.github.io/MoveR/index.html">MoveR documentation website</a> and the associated <a href="https://github.com/qpetitjean/MoveR">GitHub repository</a>.</p>
+
+<p class="plain-text">
+Check also the <a href="https://biorxiv.org/cgi/content/short/2023.11.08.566216v1">MoveR preprint article hosted in bioRxiv</a> or the <a href="https://www.softxjournal.com/article/S2352-7110(24)00045-1/fulltext">edited version of the article published in SoftwareX</a>.</p>
+
+<p class="plain-text">
+Also, note that MoveR is still under active development, documentation and GitHub repository content may hence regularly be updated. 
+Accordingly, if you find any issues, please report them using <a href="https://github.com/qpetitjean/MoveR/issues/new">the GitHub issue section</a>!.</p>
+
+:::

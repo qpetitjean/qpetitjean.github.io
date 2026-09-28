@@ -1,0 +1,81 @@
+---
+title: "Welcome"
+description: "Happy to open the 'News' section of my brand new website."
+date: "2022-09-22"
+categories: ["Welcome"]
+author: [{"name": "Quentin Petitjean", "url": "https://qpetitjean.github.io/", "affiliation": "Institut Sophia Agrobiotech, UMR5254 ISA, INRAE, CNRS, Université Côte d’Azur, Sophia-Antipolis, France."}]
+---
+
+::: {.legacy-content}
+
+<p class="plain-text">
+<strong>Welcome</strong>;<br/> I'm happy to open my brand-new website's "News" section. Here you'll find news about recently published articles, new positions, and scientific and lab actualities.
+</p> 
+
+ 
+ 
+
+<div class="fa-2x">
+         
+ <br/>
+<i class="fa fa-flip-vertical">
+  
+</i>
+</div>
+ 
+  
+
+
+ 
+  
+    
+
+ <p class="plain-text">
+While introducing my website, I want to give credit where credit is due by citing several resources I used myself to build and customize my own website with <a href="https://rstudio.github.io/distill/">Distill for R Markdown</a>.</p> 
+
+ 
+ 
+
+   
+   
+ 
+  
+
+ 
+ 
+  
+    
+
+<p class="plain-text">
+After a first look to the <a href="https://rstudio.github.io/distill/">Distill for R Markdown tutorial webpage</a>, one of the most useful resources I used is the <a href="https://distillery.rbind.io/">The Distillery</a>, which contains a nice <a href="https://distillery.rbind.io/showcase.html">showcase</a> that can be explored to find some inspiration, but also a great <a href="https://distillery.rbind.io/tips_and_tricks.html">Tips & tricks</a> section where there is several articles about the numerous ways to customize or add new features to Distill blog or website.</p> 
+
+ 
+ 
+  
+  
+ 
+  
+
+
+  
+  
+    
+ <p class="plain-text">
+Also, the blogs of <a href="https://ellakaye.rbind.io/">Ella Kaye</a>, <a href="https://blog.djnavarro.net/">Danielle Navarro</a>,  <a href="https://www.jhelvy.com">John Paul Helveston</a> and <a href="https://themockup.blog/">Tom Mock</a> are very helpful and contain much advice to improve the appearance and add several functionalities to Distill blog or website.</p> 
+
+ 
+ 
+
+ 
+  
+
+
+ 
+  
+    
+    
+<p class="plain-text">
+Finally, it is possible to customize website's content by adding icons and animals silhouette from internet libraries such as <a href="https://fontawesome.com/search">Font Awesome</a>, <a href="https://jpswalsh.github.io/academicons/">Academicons</a> and <a href="http://phylopic.org/">Phylopic</a> or by embedding <a href="https://api.altmetric.com/embeds.html">Altmetric</a> and <a href="https://badge.dimensions.ai/#build">Dimension</a> badges to your publication record.
+</p>
+
+:::

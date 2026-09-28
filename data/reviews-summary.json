@@ -1,0 +1,159 @@
+{
+  "updated": "2026-09-28",
+  "journals": [
+    {
+      "journal": "Ecology Letters",
+      "url": "https://onlinelibrary.wiley.com/journal/14610248",
+      "article": 1,
+      "data": 17,
+      "total": 18
+    },
+    {
+      "journal": "Environmental Science and Pollution Research",
+      "url": "https://www.springer.com/journal/11356",
+      "article": 4,
+      "data": 0,
+      "total": 4
+    },
+    {
+      "journal": "Science of The Total Environment",
+      "url": "https://www.sciencedirect.com/journal/science-of-the-total-environment",
+      "article": 4,
+      "data": 0,
+      "total": 4
+    },
+    {
+      "journal": "Environmental Pollution",
+      "url": "https://www.sciencedirect.com/journal/environmental-pollution",
+      "article": 3,
+      "data": 0,
+      "total": 3
+    },
+    {
+      "journal": "Aquatic Ecology",
+      "url": "https://link.springer.com/journal/10452",
+      "article": 2,
+      "data": 0,
+      "total": 2
+    },
+    {
+      "journal": "Brain Research",
+      "url": "https://www.sciencedirect.com/journal/brain-research",
+      "article": 2,
+      "data": 0,
+      "total": 2
+    },
+    {
+      "journal": "Critical Reviews in Environmental Science & Technology",
+      "url": "https://www.tandfonline.com/journals/best20",
+      "article": 2,
+      "data": 0,
+      "total": 2
+    },
+    {
+      "journal": "Ecotoxicology",
+      "url": "https://link.springer.com/journal/10646",
+      "article": 2,
+      "data": 0,
+      "total": 2
+    },
+    {
+      "journal": "Environmental Microbiology",
+      "url": "https://enviromicro-journals.onlinelibrary.wiley.com/journal/14622920",
+      "article": 2,
+      "data": 0,
+      "total": 2
+    },
+    {
+      "journal": "PCI Ecotoxicology and Environmental Chemistry",
+      "url": "https://ecotoxenvchem.peercommunityin.org/",
+      "article": 2,
+      "data": 0,
+      "total": 2
+    },
+    {
+      "journal": "Apidologie",
+      "url": "https://link.springer.com/journal/13592",
+      "article": 1,
+      "data": 0,
+      "total": 1
+    },
+    {
+      "journal": "Front. Fish Sci. - Fish Ecology",
+      "url": "https://www.frontiersin.org/journals/fish-science",
+      "article": 1,
+      "data": 0,
+      "total": 1
+    },
+    {
+      "journal": "Journal of Experimental Zoology Part A",
+      "url": "https://onlinelibrary.wiley.com/journal/24715646",
+      "article": 1,
+      "data": 0,
+      "total": 1
+    },
+    {
+      "journal": "Journal of Thermal Biology",
+      "url": "https://www.sciencedirect.com/journal/journal-of-thermal-biology",
+      "article": 1,
+      "data": 0,
+      "total": 1
+    },
+    {
+      "journal": "Methods in Ecology and Evolution",
+      "url": "https://besjournals.onlinelibrary.wiley.com/journal/2041210x",
+      "article": 1,
+      "data": 0,
+      "total": 1
+    }
+  ],
+  "years": [
+    {
+      "year": 2020,
+      "article": 1,
+      "data": 0,
+      "total": 1
+    },
+    {
+      "year": 2021,
+      "article": 3,
+      "data": 0,
+      "total": 3
+    },
+    {
+      "year": 2022,
+      "article": 6,
+      "data": 0,
+      "total": 6
+    },
+    {
+      "year": 2023,
+      "article": 5,
+      "data": 3,
+      "total": 8
+    },
+    {
+      "year": 2024,
+      "article": 4,
+      "data": 7,
+      "total": 11
+    },
+    {
+      "year": 2025,
+      "article": 5,
+      "data": 5,
+      "total": 10
+    },
+    {
+      "year": 2026,
+      "article": 5,
+      "data": 2,
+      "total": 7
+    }
+  ],
+  "totals": {
+    "article": 29,
+    "data": 17,
+    "total": 46
+  }
+}

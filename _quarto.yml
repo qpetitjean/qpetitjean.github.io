@@ -1,0 +1,83 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render:
+    - scripts/build_content.py
+  post-render:
+    - scripts/finalize_site.py
+  render:
+    - '*.qmd'
+    - 'posts/**/*.qmd'
+  resources:
+    - assets/
+    - PubList/*.pdf
+    - Posters/*.pdf
+    - downloads/
+    - robots.txt
+
+website:
+  title: Quentin Petitjean
+  description: Research scientist at INRAE studying how environmental stressors shape animal health, behaviour and adaptation.
+  site-url: https://qpetitjean.github.io/
+  favicon: assets/OsmiaMating.jpg
+  image: assets/IMG_0143.JPG
+  open-graph: true
+  twitter-card: true
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    background: light
+    logo-alt: Quentin Petitjean — home
+    collapse-below: xl
+    right:
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Software & open science
+        href: open-science.qmd
+      - text: Opportunities
+        href: opportunities.qmd
+      - text: News
+        href: news.qmd
+      - text: About
+        menu:
+          - text: About & contact
+            href: about.qmd
+          - text: Curriculum vitae
+            href: cv.qmd
+          - text: Talks & posters
+            href: communications.qmd
+          - text: Outreach
+            href: outreach.qmd
+  page-footer:
+    left: 'Quentin Petitjean · INRAE · Avignon, France'
+    right:
+      - text: Email
+        href: mailto:quentin.petitjean@inrae.fr
+      - text: ORCID
+        href: https://orcid.org/0000-0003-2708-7831
+      - text: GitHub
+        href: https://github.com/qpetitjean
+      - text: Built with Quarto
+        href: https://quarto.org
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/theme.scss]
+      dark: [darkly, styles/theme.scss, styles/dark.scss]
+    css: styles/site.css
+    lang: en
+    toc: false
+    anchor-sections: true
+    link-external-newwindow: true
+    include-after-body: includes/scripts.html
+    include-in-header: includes/person.html
+    respect-user-color-scheme: true
+    smooth-scroll: false
+
+execute:
+  freeze: auto
+  echo: false

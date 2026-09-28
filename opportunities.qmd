@@ -1,0 +1,11 @@
+---
+title: Opportunities
+description: Research positions, studentships and internships in ecology, ecotoxicology and related fields.
+---
+
+Positions in my group and opportunities shared from the wider research community. Each announcement identifies the recruiting organisation and links to the full description.
+
+{{< include _generated/opportunities.html >}}
+
+For enquiries about my research, [get in touch](mailto:quentin.petitjean@inrae.fr). For a shared announcement, please contact the recruiter listed in the original offer.
+

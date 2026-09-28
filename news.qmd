@@ -1,0 +1,13 @@
+---
+title: News & notes
+description: Research updates, new resources and news from the community.
+listing:
+  contents: posts
+  type: default
+  sort: 'date desc'
+  categories: true
+  fields: [date, title, description, categories]
+  date-format: 'D MMM YYYY'
+  feed: true
+---
+

@@ -1,0 +1,37 @@
+---
+title: Research
+description: Connecting environmental pressures, individual responses and population persistence.
+---
+
+I investigate how organisms respond to global environmental change. My work connects ecotoxicology, ecophysiology, and evolutionary ecology, using fish, insects, and other organisms to understand responses to multiple stressors.
+
+## Life under environmental pressure {#multiple-stressors}
+
+In the wild, organisms encounter many different stressors that can interact in ways that lead to unexpected effects. Pollution, for instance, can occur alongside temperature changes and pathogens. I study how these pressures interact, and how their effects propagate across levels of biological organization from molecular and cellular levels to the individual level, focusing on behavior, growth and survival.
+
+My approaches combine field observations, reciprocal transplants, and controlled experiments. Together, they help disentangle associations in natural environments from causal responses to specific stressors.
+
+[Explore the publications](publications.qmd){.text-link}
+
+## Why individuals and populations respond differently {#variation}
+
+Individuals and populations can respond differently to the same stressor. I am interested in how this variation reflects plasticity, exposure history, and local adaptation, and what it means for population persistence.
+
+More specifically, I investigated how responses to metal contamination and immune challenges vary among wild freshwater fish populations, including a study of their gut microbiota, physiological and behavioral responses, and variation in movement and thermal performance among parasitic micro-wasp populations. The work on animal movement also inspired the [MoveR package](open-science.qmd#mover).
+
+![Studying responses across molecular, cellular, individual and population levels.](assets/biological-levels.webp){.research-figure fig-alt="Diagram connecting molecular, cellular, individual and population levels of biological organisation"}
+
+## Pollinator health in a changing environment {#pollinators}
+
+Since January 2025, I have been a research scientist in the [Bees & Environment unit at INRAE](https://abeilles-et-environnement.paca.hub.inrae.fr/) in Avignon. My current work investigates how contaminants and other environmental stressors affect bee health, with a particular interest in wild bees.
+
+I also co-coordinate the Pesticides & Pollinators Group within the [POLLINECO network](https://pollineco.org/).
+
+## Research in practice
+
+- **Ecotoxicology:** laboratory and field experiments, including reciprocal transplants to understand effect of contaminants on organisms.
+- **Integrative biology:** connecting physiology, behaviour, microbiota and organism performance.
+- **Quantitative methods:** reproducible analyses and tools for animal video-tracking data.
+- **Open science:** sharing data, code and practical resources to support reliable research.
+
+[Career and project details](cv.qmd) · [Talks & posters](communications.qmd) · [Get in touch](about.qmd#contact)

@@ -1,0 +1,90 @@
+---
+title: "Talks & posters"
+description: "Conference presentations, invited talks and resources."
+toc: true
+---
+
+::: {.legacy-content}
+
+
+
+
+<p class="small-text"><span>&#42;</span> indicates the person who presented the work.<br/><sup>&#9830;</sup> indicates equal contribution.</p>
+
+For public events and educational games, see [Outreach](outreach.qmd).
+
+## Talks
+
+### 2026 
+::: {.talks}
+  A Louvet* & <strong>Q Petitjean</strong>*, Bee in Motion: Modelling Bees' Movements. Oral communication (invited speaker) at the <a href='https://www.bath.ac.uk/events/probability-meets-biology-iii/'>Probability meets Biology III workshop (PMB III).</a>
+:::
+### 2025 
+::: {.talks}
+   <strong>Q Petitjean</strong>*, Science reproductible : Publier ses données et son code pour une recherche transparente – comment répondre aux attentes des éditeurs. Oral communication (invited speaker) at the <a href='https://jrfrr-2025.sciencesconf.org/'>Journées du Réseau Français de la Recherche Reproductible (JRFRR 2025).</a><br/><a href="https://hal.science/hal-05032797v1">Slides</a> <a href="https://doi.org/10.60527/ewag-3442">Watch the talk (Fr)</a>
+:::
+### 2024
+::: {.talks}
+   <strong>Q Petitjean</strong>*, Analyses comportementales en Vidéo-tracking. Oral communication (Workshop animation) at the <a href='https://life.ir.inrae.fr/actualites/jst-life-20242'>Journées scientifiques et techniques de l'IR life 2024.</a>
+
+   <strong>Q Petitjean</strong>*, K Kreutzenberger, J Belliard, L Plichard, B Bourillon, O Dezerald, B Villeneuve, Effect of multiple stressors on migratory fishes: does watershed functioning help better explain population declines? Oral communication at the <a href='https://sfe2-2024.fr/fr'>SFE² meeting 2024.</a>
+
+   <strong>Q Petitjean</strong>*, K Kreutzenberger, J Belliard, L Plichard, B Bourillon, O Dezerald, B Villeneuve, Effets des stress anthropiques sur le déclin des poissons migrateurs : une approche multifactorielle intégrative du fonctionnement des bassins versants. Oral communication at the <a href='https://jilo-2024.sciencesconf.org/'>VI<sup>ème</sup> Journées internationales de limnologie et d'océanographie (JILO 2024).</a>
+:::
+### 2023
+::: {.talks}
+   <strong>Q Petitjean</strong>*, M Granada, S Jean, S Manzi, C Veyssiere, A Perrault, M Cousseau, P Laffaille, White J, L Jacquin, Environmentally relevant metal contamination levels affect gut microbiota composition in wild fish populations (<em>Gobio occitaniae</em>). Oral communication at the <a href='https://ecotox-2023.colloque.inrae.fr/'>VIII<sup>ème</sup> Colloque du Réseau Ecotox.</a>
+:::
+### 2021
+::: {.talks}
+   <strong>Q Petitjean</strong>*, Variable responses to multiple stressors in a wild freshwater fish: <em>Gobio occitaniae</em>. Oral communication at the <a href='https://www.biologie.uni-hamburg.de/en/forschung/grk2530/'>Department of Biology of the university of Hamburg (RTG 2530).</a> 
+:::
+### 2019
+::: {.talks}
+   <strong>Q Petitjean</strong>*, L Jacquin, L Riem, E Rojas, A Perrault, M Cousseau, P Laffaille, S Jean, Variability of responses to multiples stressors in fish: biological level and population matter. Oral communication at the <a href='https://helsinki.setac.org/welcome/'>SETAC Europe 29<sup>th</sup> meeting 2019.</a>
+:::
+### 2018
+::: {.talks}
+   <strong>Q Petitjean</strong>*, L Jacquin,  L Riem, E Rojas, A Perrault, M Cousseau, P Laffaille, S Jean, Variability of fish population responses to combined contamination and immune stressors in wild gudgeon. Oral communication at the <a href='https://sfecologie2018.sciencesconf.org/'>SFE² meeting 2018.</a>
+:::
+### 2017
+::: {.talks}
+   <strong>Q Petitjean</strong>*, J Côte, S Jean, A Perrault, O Morrisseau, P Laffaille, L Jacquin, Responses of freshwater fish to multiple stressors. Oral communication at the <a href='https://www.freshwatersciences.eu/effs/index.asp?page=SEFS&Id=4'>SEFS meeting 2017.</a>
+:::
+### 2016
+::: {.talks}
+   <strong>Q Petitjean</strong>*, A-V Walter-Simonnet, F Choulet, A-L Mariet, P Goncalves, H Laurent, P Rosenthal, A de Vaufleury, F Gimbert, From iron ore to ecotoxicological impacts: One thousand years of manganese history. Oral communication at the <a href='https://ichmet2016.ugent.be/'>ICHMET meeting 2016.</a>
+:::
+<br/>
+
+## Posters
+
+### 2024
+::: {.poster}
+   <strong>Q Petitjean</strong>*<sup>, &#9830;</sup>, S M Dupont<sup>&#9830;</sup>, C Le Picard<sup>&#9830;</sup>, B Bellier<sup>&#9830;</sup>,  H Sentenac<sup>&#9830;</sup>, S Bancel<sup>&#9830;</sup>, E FUENTES<sup>&#9830;</sup>, Young ecotoxicologist group (yeg), le groupe des jeunes ecotoxicologues francophones. Poster presentation at the <a href='https://asso-sefa.fr/colloque-de-la-sefa'>French SEFA meeting 2024.</a><br/><a href="/Posters/Petitjeanetal-YEG-POSTER.pdf">Poster</a>
+:::
+### 2023
+::: {.poster}
+   <strong>Q Petitjean</strong>*, S Lartigue, M Cointe, R LeClech,  M Ion Scotta, N Ris, L Van Oudenhove, V Calcagno, MoveR: a package for the visualization and analysis of video-tracking data in R. Poster presentation at the <a href='https://entomo2023.sciencesconf.org/'>43èmes journées des Entomophagistes.</a><br/><a href="/Posters/Petitjeanetal-MOVER-POSTER.pdf">Poster</a>
+:::
+### 2019
+::: {.poster}
+   M Pitout*, <strong>Q Petitjean</strong>, A Perrault, M Cousseau, P Laffaille, L Jacquin, S Jean, Physiological and transcriptomic responses to metal contamination and immune challenge in gudgeon. Poster presentation at the <a href='https://eb2019.sciencesconf.org/'>E&B meeting 2019.</a>
+:::
+### 2018
+::: {.poster}
+   <strong>Q Petitjean</strong>*, S Jean, J Côte, A Lamarins, A Perrault, P Laffaille, L Jacquin, Responses to combined temperature and immune stressors in wild gudgeon. Poster presentation at the <a href='https://sfecologie2018.sciencesconf.org/'>SFE² meeting 2018.</a><br/><a href="/Posters/Petitjeanetal-TempImmStress-POSTER.pdf">Poster</a>
+:::
+### 2017
+::: {.poster}
+   <strong>Q Petitjean</strong>*, J Côte, L Jacquin, A Perrault, O Morrisseau, P Laffaille, S Jean, Responses of freshwater fish to multiple stressors. Poster presentation at the FEE meeting 2017.
+:::
+### 2016
+::: {.poster}
+   <strong>Q Petitjean</strong>*, A-V Walter-Simonnet, F Choulet, A-L Mariet, P Goncalves, H Laurent, P Rosenthal, A de Vaufleury, F Gimbert, Impacts de la pr&eacute;sence de d&eacute;chets sid&eacute;rurgiques anciens sur la contamination des sols en m&eacute;taux. Poster presentation at the <a href='https://asso-sefa.fr/colloque-de-la-sefa'>French SEFA meeting 2016.</a><br/><a href="/Posters/Petitjeanetal-MineWastes-POSTER.pdf">Poster</a>
+:::
+<br/><br/>
+
+
+
+:::

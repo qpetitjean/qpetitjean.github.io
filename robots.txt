@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://qpetitjean.github.io/sitemap.xml
+

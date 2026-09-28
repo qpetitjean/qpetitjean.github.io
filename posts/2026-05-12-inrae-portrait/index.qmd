@@ -1,0 +1,17 @@
+---
+title: "A portrait of my research at INRAE"
+description: "INRAE traces my journey through ecotoxicology, wild bee research and open science in a new profile, available in French."
+date: "2026-05-12"
+categories: ["Profile", "Ecotoxicology", "Pollinators", "Open Science"]
+author: [{"name": "Quentin Petitjean", "url": "https://qpetitjean.github.io/", "affiliation": "Bees & Environment, INRAE, Avignon, France."}]
+---
+
+INRAE has published a portrait of my research journey, **“Quentin Petitjean, entre écotoxicologie des abeilles et science ouverte”**, written by **Véronique Oiknine**.
+
+The profile follows my work from contaminants in soils and freshwater ecosystems to my current research on wild bees at INRAE’s Bees & Environment unit in Avignon. It also explores my commitment to open science and reproducible research.
+
+Published on **12 May 2026**, the article is available in **French**.
+
+[Read the full portrait on INRAE’s website](https://www.inrae.fr/actualites/quentin-petitjean-entre-ecotoxicologie-abeilles-science-ouverte){.button-link}
+
+For more about my background, visit [About & contact](../../about.qmd) or my [CV](../../cv.qmd).

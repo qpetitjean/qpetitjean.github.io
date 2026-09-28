@@ -1,0 +1,8 @@
+---
+title: Publications
+description: Research articles, preprints and other scholarly work, with links to full texts, data and code.
+page-layout: article
+---
+
+{{< include _generated/publications.html >}}
+
