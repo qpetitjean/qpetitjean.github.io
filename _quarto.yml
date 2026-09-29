@@ -36,16 +36,16 @@ website:
         href: publications.qmd
       - text: Software & open science
         href: open-science.qmd
-      - text: Opportunities
-        href: opportunities.qmd
-      - text: News
-        href: news.qmd
       - text: Communication
         menu:
           - text: Talks & posters
             href: communications.qmd
           - text: Outreach
             href: outreach.qmd
+      - text: News
+        href: news.qmd
+      - text: Opportunities
+        href: opportunities.qmd
       - text: About
         menu:
           - text: About & contact
