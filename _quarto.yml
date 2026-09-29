@@ -40,16 +40,18 @@ website:
         href: opportunities.qmd
       - text: News
         href: news.qmd
+      - text: Communication
+        menu:
+          - text: Talks & posters
+            href: communications.qmd
+          - text: Outreach
+            href: outreach.qmd
       - text: About
         menu:
           - text: About & contact
             href: about.qmd
           - text: Curriculum vitae
             href: cv.qmd
-          - text: Talks & posters
-            href: communications.qmd
-          - text: Outreach
-            href: outreach.qmd
   page-footer:
     left: 'Quentin Petitjean · INRAE · Avignon, France'
     right:
