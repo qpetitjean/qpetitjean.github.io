@@ -2,7 +2,7 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Source files for my [personal website](https://qpetitjean.github.io/) constructed using [Quarto](https://quarto.org/) and hosted on GitHub.
-
+This is the latest version of my website, created by migrating the original site from Distill to Quarto with support from ChatGPT (GPT-6 Astra).
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
