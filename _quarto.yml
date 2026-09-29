@@ -27,7 +27,6 @@ website:
     location: navbar
     type: overlay
   navbar:
-    background: light
     logo-alt: Quentin Petitjean — home
     collapse-below: xl
     right:

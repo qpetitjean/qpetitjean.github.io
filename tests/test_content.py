@@ -17,6 +17,24 @@ import site_data
 import sync_publications
 
 class DataTests(unittest.TestCase):
+    def test_csv_skips_empty_spreadsheet_rows_and_preserves_multiline_cells(self):
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / 'jobs.csv'
+            path.write_bytes(('id;title;location\r\n'
+                              'bee;Étude;"Avignon\r\nFrance"\r\n'
+                              ';;\r\n ; ; \r\n').encode('cp1252'))
+            rows = site_data.read_csv(path)
+            self.assertEqual(rows, [{'id': 'bee', 'title': 'Étude', 'location': 'Avignon\r\nFrance'}])
+
+    def test_csv_keeps_incomplete_announcements_for_validation(self):
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / 'jobs.csv'
+            path.write_text('id;title\n;Internship\n', encoding='utf-8-sig')
+            rows = site_data.read_csv(path)
+            self.assertEqual(len(rows), 1)
+            with self.assertRaisesRegex(ValueError, 'missing id'):
+                site_data.validate_jobs(rows)
+
     def test_deadline_includes_final_day(self):
         row = {'status':'open', 'deadline':'2026-09-28'}
         self.assertEqual(site_data.job_status(row, date(2026,9,28)), 'open')

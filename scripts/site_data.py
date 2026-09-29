@@ -2,6 +2,7 @@
 from __future__ import annotations
 import csv
 import html
+import io
 import json
 import re
 from datetime import date
@@ -26,7 +27,10 @@ def read_csv(path):
         text = text.decode("utf-8-sig")
     except UnicodeDecodeError:
         text = text.decode("cp1252")
-    return list(csv.DictReader(text.splitlines(), delimiter=";"))
+    # Spreadsheet exports may contain delimiter-only rows after the data.
+    # Preserve quoted multiline cells and reject incomplete, non-empty records later.
+    rows = csv.DictReader(io.StringIO(text, newline=""), delimiter=";")
+    return [row for row in rows if any(str(value or "").strip() for value in row.values())]
 
 def normalise_doi(value):
     value = unquote(str(value or "").strip())
