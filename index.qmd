@@ -19,7 +19,7 @@ body-classes: home
 </section>
 
 <section class="home-section" aria-labelledby="themes-title">
-  <div class="section-heading"><h2 id="themes-title">One environment. Different responses.</h2><a class="text-link" href="research.html">Research themes ↗</a></div>
+  <div class="section-heading"><h2 id="themes-title">Living under pressure.</h2><a class="text-link" href="research.html">Research themes ↗</a></div>
   <div class="theme-grid">
     <article><span class="theme-number">01 / MULTIPLE STRESSORS</span><h3><a href="research.html#multiple-stressors">Combined effects of environmental stressors</a></h3><p>Understanding how contaminants, temperature and pathogens interact to affect organisms, from molecular responses to behaviour and survival.</p></article>
     <article><span class="theme-number">02 / INDIVIDUAL VARIATION</span><h3><a href="research.html#variation">How and Why individuals differ in their sensitivity</a></h3><p>Investigating how sensitivity to environmental stress varies within and among populations, and the physiological and behavioural traits underlying these differences.</p></article>

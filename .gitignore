@@ -4,7 +4,7 @@ __pycache__/
 *.pyc
 /.preview/
 /migration/legacy-redirects/
-
+/scripts/.PySetup.R
 
 **/*.quarto_ipynb
 
